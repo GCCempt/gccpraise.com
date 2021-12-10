@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	font-size:12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+}
+
+a
+{
+	color:#000;
+}
+pre
+{
+	font-size:14px;
+}
+h1
+{
+	font-size:16px;
+}
+
+#preview
+{
+	position: fixed;
+	top: 100px; 
+	width: 500px; 
+	border: solid 1px #69F;
+	text-align: center;
+	right:850px;
+	
+}
+#header
+{
+	background-image:url(../images/headerbg.gif);
+	height:150px;
+	width:100%;
+	background-repeat:repeat-x;
+}
+
+#menu
+{
+	position:absolute;
+	top:125px; 
+	width:100%; 
+	height:30px;
+	text-align:left;
+	
+}
+#menu a
+{
+	color:#DF650B;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+	padding-right:20px;
+}
+#menu a:hover
+{
+	text-decoration:underline;
+}
+#container
+{
+	margin:15px;
+	
+}
+#alphalist li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 10px;
+}
+#alphalist a
+{
+	text-decoration:underline;
+	font-size:12px;
+	color:#000;
+}
+
+#results li
+{
+	display:list-item;
+}
+
+#songlist ul, #alphalist ul
+{
+	margin-left: 0;
+	padding-left: 0;
+	list-style-type: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+	
+#songlist li
+{
+	padding:3px;
+}
+#songlist a 
+{
+	font-size:12px;
+	/*display: block;*/
+	width: 200px;
+	background-color: #fff;
+	border-bottom: 1px solid #369;
+	color:#000;
+	text-decoration:none;
+}	
+
+#songlist li a:hover 
+{
+	background-color: #369;
+	color: #fff;
+}
+
+#songlist .noborder
+{
+	border-bottom:0px;
+}
+
+.current
+{
+	background-color:#69F;
+}
+
+#innersongnav
+{
+	position: fixed;
+    width: 150px;
+    border: solid 1px #69F;
+    vertical-align: middle;
+    background-color: #E8E8E8;
+    text-align: center;
+	top: 10px;
+    right: 450px;
+	color:#000;
+}
+
+#innersongnav a
+{
+	color:#DF650B;
+}

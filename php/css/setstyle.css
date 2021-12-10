@@ -1,0 +1,169 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	font-size:12px;
+	font-family: "Times New Roman", Verdana, Arial, Helvetica, sans-serif;
+	margin:35px;
+	padding:35px;
+}
+
+a
+{
+	color:#000;
+}
+pre
+{
+	font-size:14px;
+	color: blue;
+}
+
+h1
+{
+	font-size:8px;
+	color: blue;
+	
+}
+
+h2
+{
+	font-size:8px;
+	font-family: arial, Verdana, Arial, Helvetica, sans-serif;
+	color: blue;	
+}
+
+#preview
+{
+	position: fixed;
+	top: 100px; 
+	width: 500px; 
+	border: solid 1px #69F;
+	text-align: center;
+	right:850px;
+	
+}
+#header
+{
+/*	background-image:url(../images/headerbg.gif); */
+	height:10px;
+	width:auto;
+	background-repeat:repeat-x;
+}
+
+
+#menu
+{
+	position:absolute;
+	top:225px; 
+	width:100%; 
+	height:30px;
+	text-align:left;
+	
+}
+
+div *
+{
+	font-family: arial, cursive, sans-serif;
+}
+
+#newmenu
+{
+	position:absolute;
+	top: 200px;
+	width:100%;
+	left: 40 px;
+	border: 3px solid black;	
+}
+
+#menu a
+{
+	color:#DF650B;
+	font-size:14px;
+	font-weight:bold;
+	text-decoration:none;
+	padding-right:20px;
+}
+#menu a:hover
+{
+	text-decoration:underline;
+}
+#container
+{
+	margin:15px;
+	
+}
+#alphalist li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 10px;
+}
+#alphalist a
+{
+	text-decoration:underline;
+	font-size:12px;
+	color:#000;
+}
+
+#results li
+{
+	display:list-item;
+}
+
+#songlist ul, #alphalist ul
+{
+	margin-left: 0;
+	padding-left: 0;
+	list-style-type: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+	
+#songlist li
+{
+	padding:3px;
+}
+#songlist a 
+{
+	font-size:12px;
+	/*display: block;*/
+	width: 200px;
+	background-color: #fff;
+	border-bottom: 1px solid #369;
+	color:#000;
+	text-decoration:none;
+}	
+
+#songlist li a:hover 
+{
+	background-color: #369;
+	color: #fff;
+}
+
+#songlist .noborder
+{
+	border-bottom:0px;
+}
+
+.current
+{
+	background-color:#69F;
+}
+
+#innersongnav
+{
+	position: fixed;
+    width: 150px;
+    border: solid 1px #69F;
+    vertical-align: middle;
+    background-color: #E8E8E8;
+    text-align: center;
+	top: 10px;
+    right: 450px;
+	color:#000;
+}
+
+#innersongnav a
+{
+	color:#DF650B;
+}

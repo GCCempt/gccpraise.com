@@ -1,0 +1,31 @@
+---
+version: "3.9"
+services:
+     nginx:
+          image: lscr.io/linuxserver/nginx
+          container_name: opensong-nginx
+          environment:
+          - PUID=1000
+          - PGID=1000
+          - TZ=Europe/London
+          volumes:
+          - /www/html/:/config/www/
+          ports:
+          - 80:80
+          - 443:443
+          links:
+          - php
+          restart: unless-stopped
+
+     php:
+          image: php:7.2-fpm
+          container_name: opensong-php
+          environment:
+          - PUID=1000
+          - PGID=1000
+          - TZ=Europe/London
+          volumes:
+          - /www/html/:/config/www/
+          expose:
+          - 9000
+          restart: unless-stopped
