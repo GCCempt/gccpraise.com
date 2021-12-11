@@ -59,9 +59,9 @@ foreach ($files as $f) {
 }
 ?>
 <div id="header"><img src="images/gcclogo.gif" alt="gcc logo"/>
-    <div id="menu"><a href="http://gccpraise.com/praise-team/">Praise Team Home</a> <a
+    <div id="menu"><a
                 href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0"
-                TARGET="_blank">Worship Schedule</a> <a href="http://gccpraise.com/os-viewer/preview_set.php"
+                TARGET="_blank">Worship Schedule</a> <a href="preview_set.php"
                                                         TARGET="_blank">Worship Sets</a></div>
 </div>
 

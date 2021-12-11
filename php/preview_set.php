@@ -5,7 +5,6 @@
     <title>OpenSong Viewer</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <link type="text/css" rel="stylesheet" href="css/navstyle.css"/>
-    <link type="text/css" rel="stylesheet" href="/home/gccpraise/public_html/os-viewer/css/setstyle.css"/>
     <link type="text/css" href="css/ui-lightness/jquery-ui-1.8.2.custom.css" rel="stylesheet"/>
     <link rel="stylesheet" type="text/css" href="css/jquery.transposer.css"/>
     <script type="text/javascript" src="js/jquery.js"></script>
@@ -22,7 +21,7 @@ $s = false;
 $searchresults = "";
 $dir = "sets";
 $files = array();
-$dir = "/home/gccpraise/public_html/opensongv2/sets/";
+$dir = "../www/sets/";
 $thedir = opendir($dir);
 while (false !== ($file = readdir($thedir))) {
     if ($file != "." && $file != "..") {

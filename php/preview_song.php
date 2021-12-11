@@ -8,8 +8,7 @@
   	<script type="text/javascript" src="js/jquery-ui-1.8.2.custom.min.js"></script>
   	<script type="text/javascript" src="js/functions.js"></script>
  	<link rel="stylesheet" type="text/css" href="css/jquery.transposer.css" />
- 	<link type="text/css" href="css/ui-lightness/jquery-ui-1.8.2.custom.css" rel="stylesheet" />	
- 	<link rel="stylesheet" type="text/css" href="/home/gccpraise/public_html/os-viewer/css/setstyle.css" />
+ 	<link type="text/css" href="css/ui-lightness/jquery-ui-1.8.2.custom.css" rel="stylesheet" />
  	<style type="text/css" media="print">
 		body {
   		width: 100%;
@@ -32,9 +31,9 @@
 <div id="header"><img src="images/gcclogo.gif">
 
 <?php
-$dir = "/home/gccpraise/public_html/opensongv2/xml/";
+$dir = "../www/xml/";
 $song=$_GET['s'];
-$menu='<div id="menu"><a href="http://gccpraise.com/praise-team/">Praise Team Home</a> <a href="http://gccpraise.com/os-viewer/preview_index.php">Song Index</a> <a href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0" TARGET="_blank">Worship Schedule</a> <a href="https://songselect.ccli.com/" TARGET="_blank">CCLI Song Select</a></div>';
+$menu='<div id="menu"><a href="preview_index.php">Song Index</a> <a href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0" TARGET="_blank">Worship Schedule</a> <a href="https://songselect.ccli.com/" TARGET="_blank">CCLI Song Select</a></div>';
 
 ?>
 
