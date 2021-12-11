@@ -1,2 +1,2 @@
 #Alternate default index page
-DirectoryIndex php/preview_index.php
+DirectoryIndex index.php
