@@ -9,7 +9,7 @@
   <script type="text/javascript" src="js/functions.js"></script>
  <link rel="stylesheet" type="text/css" href="css/jquery.transposer.css" />
  <link type="text/css" href="css/ui-lightness/jquery-ui-1.8.2.custom.css" rel="stylesheet" />	
- <link rel="stylesheet" type="text/css" href="/home/gccpraise/public_html/os-viewer/css/setstyle.css" />
+ <link rel="stylesheet" type="text/css" href="css/setstyle.css" />
  <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
 
 
@@ -18,7 +18,8 @@
 <div id="header"><img src="images/gcclogo.gif"></div>
 
 <?php
-$menu='<pre><div id="newmenu"><a href="http://gccpraise.com/praise-team/">Praise Team Home</a>   <a href="http://gccpraise.com/os-viewer/preview_index.php">Song Index</a>    <a href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0" TARGET="_blank">Worship Schedule</a>    <a href="http://gccpraise.com/os-viewer/preview_set.php" TARGET="_blank">Sets</a></div></pre>';
+
+$menu='<pre><div id="newmenu"><a href="preview_index.php">Song Index</a>    <a href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0" TARGET="_blank">Worship Schedule</a>    <a href="preview_set.php" TARGET="_blank">Sets</a></div></pre>';
 echo $menu;
 $dir1 = "/home/gccpraise/public_html/opensongv2/sets/";  //sets directory
 $dir2 = "/home/gccpraise/public_html/opensongv2/xml/";   //songs (xml) directory 

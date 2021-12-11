@@ -66,7 +66,7 @@ foreach ($files as $f)
 }
 ?>
 <div id="header"><img src="images/gcclogo.gif" />
-<div id="menu"><a href="http://gccpraise.com/praise-team/">Home</a> <a href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0" TARGET="_blank">Worship Schedule</a> <a href="https://songselect.ccli.com/" TARGET="_blank">CCLI Song Select</a></div>
+<div id="menu"><a href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0" TARGET="_blank">Worship Schedule</a> <a href="https://songselect.ccli.com/" TARGET="_blank">CCLI Song Select</a></div>
 </div>
 
 <div id="alphalist"><form action="preview_index.php" method="post"><strong>Search: </strong> 
