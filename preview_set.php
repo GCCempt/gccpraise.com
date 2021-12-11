@@ -21,7 +21,7 @@ $s = false;
 $searchresults = "";
 $dir = "sets";
 $files = array();
-$dir = "../www/sets/";
+$dir = "www/sets/";
 $thedir = opendir($dir);
 while (false !== ($file = readdir($thedir))) {
     if ($file != "." && $file != "..") {

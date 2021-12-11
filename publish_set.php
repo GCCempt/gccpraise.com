@@ -21,8 +21,8 @@
 <?php
 $menu = '<pre><div id="newmenu"><a href="preview_index.php">Song Index</a>    <a href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0" TARGET="_blank">Worship Schedule</a>    <a href="preview_set.php" TARGET="_blank">Sets</a></div></pre>';
 echo $menu;
-$dir1 = "../www/sets/";  //sets directory
-$dir2 = "../www/xml/";   //songs (xml) directory
+$dir1 = "www/sets/";  //sets directory
+$dir2 = "www/xml/";   //songs (xml) directory
 $setdir = opendir($dir1);
 $songdir = opendir($dir2);
 $songindex = array();
