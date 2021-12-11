@@ -22,8 +22,8 @@ RUN set -ex; \
   } > "$PHP_INI_DIR/conf.d/cloud-run.ini"
 
 # Copy in custom code from the host machine.
-WORKDIR /var/www/html
-COPY . ./www/html/
+WORKDIR /www/html
+COPY . ./
 
 # Use the PORT environment variable in Apache configuration files.
 # https://cloud.google.com/run/docs/reference/container-contract#port
