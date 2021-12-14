@@ -11,6 +11,8 @@
     <script type="text/javascript" src="js/jquery.transposer.js"></script>
     <script type="text/javascript" src="js/jquery-ui-1.8.2.custom.min.js"></script>
     <script type="text/javascript" src="js/functions.js"></script>
+    <link type="text/css" rel="stylesheet" href="css/style.css" />
+
 </head>
 <body>
 <?php
@@ -48,12 +50,7 @@ foreach ($files as $f) {
     $last = $letter;
 }
 ?>
-<div id="header"><img src="images/gcclogo.gif" alt="GCC Logo"/>
-    <div id="menu">
-        <pre><a href="about.php">About</a>   <a href="settings.php">Settings</a>   <a href="preview_index.php">Index</a>   <a
-                    href="preview_set.php">Sets</a>
-    </div>
-</div>
+<?php include "nav_menu.html" ?>
 <div id="container">
 
     <h1 style='font-size:150%'>Set Listing</h1>
