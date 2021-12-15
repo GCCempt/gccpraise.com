@@ -21,6 +21,8 @@ RUN set -ex; \
     echo "opcache.memory_consumption = 32"; \
   } > "$PHP_INI_DIR/conf.d/cloud-run.ini"
 
+ENV DROPBOX_TOKEN=''
+
 # Copy in custom code from the host machine.
 WORKDIR /var/www/html
 COPY . /var/www/html
