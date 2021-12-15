@@ -58,12 +58,7 @@ foreach ($files as $f) {
     $last = $letter;
 }
 ?>
-<div id="header"><img src="images/gcclogo.gif" alt="gcc logo"/>
-    <div id="menu"><a
-                href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0"
-                TARGET="_blank">Worship Schedule</a> <a href="preview_set.php"
-                                                        TARGET="_blank">Worship Sets</a></div>
-</div>
+<?php include "nav_menu.html"; ?>
 
 <div id="alphalist">
     <form action="preview_index.php" method="post"><strong>Search: </strong>
