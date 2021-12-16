@@ -1,10 +1,12 @@
 <?php
+
+$env = getenv('DROPBOX_TOKEN');
 $url = "https://content.dropboxapi.com/2/files/download_zip";
 $curl = curl_init($url);
 curl_setopt($curl, CURLOPT_URL, $url);
 curl_setopt($curl, CURLOPT_POST, true);
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-$headers = array('Accept: text/plain', 'Content-Type: text/plain', 'Authorization: Bearer ' . $_ENV["DROPBOX_TOKEN"], 'Dropbox-API-Arg: {"path":"/OpenSongV2/OpenSong Data/Songs/"}');
+$headers = array('Accept: text/plain', 'Content-Type: text/plain', 'Authorization: Bearer ' . $env, 'Dropbox-API-Arg: {"path":"/OpenSongV2/OpenSong Data/Songs/"}');
 curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
 $resp = curl_exec($curl);
 curl_close($curl);
