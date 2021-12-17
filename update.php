@@ -1,4 +1,12 @@
 <?php
+$dropbox_copy_dir = 'dropbox_copy/';
+
+
+if (!is_dir($dropbox_copy_dir)) {
+    mkdir($dropbox_copy_dir);
+} else {
+    echo "Directory already exists!";
+}
 
 $env = getenv('DROPBOX_TOKEN');
 $url = "https://content.dropboxapi.com/2/files/download_zip";
@@ -16,16 +24,16 @@ fwrite($songs, $resp);
 $zip = new ZipArchive;
 $res = $zip->open($filename);
 if ($res === TRUE) {
-    $zip->extractTo('dropbox_copy/');
+    $zip->extractTo($dropbox_copy_dir);
     $zip->close();
     echo "Success!";
 } else {
     echo 'Error!';
 }
-$files = scandir("dropbox_copy/Songs");
+$files = scandir($dropbox_copy_dir);
 foreach ($files as $filename) {
     if (!is_dir($filename)) {
-        copy("dropbox_copy/Songs/" . $filename, "www/xml/" . $filename);
+        copy($dropbox_copy_dir . "Songs/" . $filename, "www/xml/" . $filename);
     }
     header("Location: preview_index.php");
 }
