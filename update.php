@@ -1,12 +1,15 @@
 <?php
 $dropbox_copy_dir = 'dropbox_copy/';
+$song_directory = "www/xml/";
 
 
 if (!is_dir($dropbox_copy_dir)) {
-    mkdir($dropbox_copy_dir);
-    mkdir($dropbox_copy_dir . "Songs/");
-} else {
-    echo "Directory already exists!";
+    mkdir($dropbox_copy_dir . "/Songs/");
+
+}
+if (!is_dir("www/xml/")) {
+    mkdir($song_directory);
+
 }
 
 $env = getenv('DROPBOX_TOKEN');
@@ -31,7 +34,7 @@ if ($res === TRUE) {
 } else {
     echo 'Error!';
 }
-$files = scandir($dropbox_copy_dir);
+$files = scandir($dropbox_copy_dir . "/Songs/");
 foreach ($files as $filename) {
     if (!is_dir($filename)) {
         copy($dropbox_copy_dir . "Songs/" . $filename, "www/xml/" . $filename);
