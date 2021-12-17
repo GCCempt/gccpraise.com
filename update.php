@@ -4,6 +4,7 @@ $dropbox_copy_dir = 'dropbox_copy/';
 
 if (!is_dir($dropbox_copy_dir)) {
     mkdir($dropbox_copy_dir);
+    mkdir($dropbox_copy_dir . "Songs/");
 } else {
     echo "Directory already exists!";
 }
