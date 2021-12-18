@@ -21,9 +21,9 @@ $alpha = "";
 $preview = "All In All";
 $s = false;
 $searchresults = "";
-$dir = "sets";
+$dir = "sets/";
 $files = array();
-$dir = "www/sets/";
+$dir = "sets/";
 $thedir = opendir($dir);
 while (false !== ($file = readdir($thedir))) {
     if ($file != "." && $file != "..") {
