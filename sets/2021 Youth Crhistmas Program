@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set name="2021 Youth Crhistmas Program">
+  <slide_groups>
+  <slide_group name="GCC LOGO" type="image" print="true" descriptions_in_subtitle="false" seconds="0" loop="false" transition="0" resize="screen" keep_aspect="false" link="true">
+  <title>GCC LOGO</title>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <filename>GCCLogo.jpg</filename>
+  <description>C:\Dropbox\OpenSongV2\OpenSong Data\Backgrounds\GCCLogo.jpg</description>
+  <image/>
+</slide></slides></slide_group>
+  <slide_group name="Hark Medley" type="song" presentation="" path=""/>
+  <slide_group name="O Little Town Of Bethlehem" type="song" presentation="V1 V2 V3" path="" transition="0"/>
+  <slide_group name="Angels We Have Heard on High" type="song" presentation="V1 C V2 C V3 C" path="" transition="0"/>
+  <slide_group name="What Child Is This" type="song" presentation="V1 V2 V3 E" path="" transition="0"/>
+  <slide_group name="GCC LOGO" type="image" print="true" descriptions_in_subtitle="false" seconds="0" loop="false" transition="0" resize="screen" keep_aspect="false" link="true">
+  <title>GCC LOGO</title>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <filename>GCCLogo.jpg</filename>
+  <description>C:\Dropbox\OpenSongV2\OpenSong Data\Backgrounds\GCCLogo.jpg</description>
+  <image/>
+</slide></slides></slide_group></slide_groups></set>

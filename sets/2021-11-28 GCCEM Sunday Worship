@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<set name="2021-05-16 GCCEM Sunday Worship">
+<set name="2021-11-28 GCCEM Sunday Worship">
   <slide_groups>
   <slide_group name="GCC LOGO" type="image" print="true" descriptions_in_subtitle="false" seconds="0" loop="false" transition="0" resize="screen" keep_aspect="false" link="true">
   <title>GCC LOGO</title>
@@ -18,13 +18,23 @@
   <slides>
   <slide>
   <body>Call To Worship
-1 Chronicles 16:23–25</body></slide>
+Psalm 108:1–4 
+</body></slide>
   <slide>
-  <body>LEADER:  Sing to the LORD, all the earth! Tell of his salvation from day to day.</body></slide>
+  <body>LEADER:  Our hearts are ready, O Lord,  
+our hearts are ready! 
+</body></slide>
   <slide>
-  <body>Declare his glory among the nations, his marvelous works among all the peoples!</body></slide>
+  <body>CONGREGATION:  We will sing and make melody!  We will awaken the dawn!  </body></slide>
   <slide>
-  <body>For great is the LORD, and greatly to be praised, and he is to be feared above all gods.</body></slide></slides></slide_group>
+  <body>LEADER:  We will give thanks to you, O Lord, among the peoples,  
+we will sing praises to you among the nations. 
+</body></slide>
+  <slide>
+  <body>CONGREGATION:  For your steadfast love is great above the heavens,   and your faithfulness reaches to the clouds.  </body></slide>
+  <slide>
+  <body>LEADER:  Therefore, let us worship Him with a grateful heart. 
+</body></slide></slides></slide_group>
   <slide_group name="Song of Approach" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Approach</title>
   <subtitle/>
@@ -32,8 +42,8 @@
   <slides>
   <slide>
   <body>Song of Approach
-To God Be The Glory</body></slide></slides></slide_group>
-  <slide_group name="To God Be The Glory" type="song" presentation="V1 C V2 C V3 C C" path=""/>
+Praise Him, Praise Him</body></slide></slides></slide_group>
+  <slide_group name="Praise Him, Praise Him" type="song" presentation="V1 C V2 C V3 C" path=""/>
   <slide_group name="Invocation Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Invocation Prayer</title>
   <subtitle/>
@@ -47,69 +57,56 @@ To God Be The Glory</body></slide></slides></slide_group>
   <notes/>
   <slides>
   <slide>
-  <body>Song of Praise</body></slide></slides></slide_group>
-  <slide_group name="Holy Holy Holy - We Bow Before Thee" type="song" presentation="V1 V2 V3 C1 V4 C2 C2 T" path="" transition="0"/>
-  <slide_group name="Revelation Song" type="song" presentation="V1 V1 C V2 C V3 C C T" path="" transition="0"/>
+  <body>Song of Praise
+What a Beautiful Name</body></slide></slides></slide_group>
+  <slide_group name="What a Beautiful Name" type="song" presentation="V1 C1 V2 C2 I B1 B2 C3 B2 C4" path=""/>
   <slide_group name="Confession of Sin" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Confession of Sin</title>
-  <subtitle></subtitle>
-  <notes></notes>
-  <slides>
-  <slide>
-  <body>Confession of Sin</body></slide>
-  <slide>
-  <body>Gracious and merciful Father, we confess that we have turned away from You this week—</body></slide>
-  <slide>
-  <body>in times that we just wanted nothing to do with You, because we thought You were not convenient.</body></slide>
-  <slide>
-  <body>We confess that we have turned against You this week—</body></slide>
-  <slide>
-  <body>in times that it seemed better that we were in charge, whether to do “good” or to do “bad.”</body></slide>
-  <slide>
-  <body>Lord, please forgive the folly of our self-sufficiency. Thank You that You have neither turned away from nor against us.</body></slide>
-  <slide>
-  <body>Thank You that Jesus knows the temptations we face, and that He sits at your right hand interceding for us,</body></slide>
-  <slide>
-  <body>so that we may approach You boldly, confident of Your grace and mercy toward us.</body></slide>
-  <slide>
-  <body>In Jesus’ name, Amen.</body></slide></slides></slide_group>
-  <slide_group name="Assurance of Pardon" type="custom" print="true" seconds="0" loop="false" transition="0">
-  <title>Assurance of Pardon</title>
   <subtitle/>
   <notes/>
   <slides>
   <slide>
-  <body>Assurance of Pardon
-Colossians 1:15–20</body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Colossians 1:15–20|ESV" print="true">
-  <title>Colossians 1:15–20|ESV</title>
+  <body>Confession of Sin</body></slide>
+  <slide>
+  <body>Father in heaven, forgive us for living as if it matters so little that Jesus was raised from the dead. 
+</body></slide>
+  <slide>
+  <body>        We continue to live in doubt and discouragement, desperately trying to make our lives secure, without real hope for the future. We continue to practice empty religion—meaningless piety and pharisaical moralism—divorced from the life-giving power of Your Spirit. 
+</body></slide>
+  <slide>
+  <body>        Thank You that the same power that raised Jesus from the dead is at work in us now. Thank You for displaying Your strength and love, and enabling us to love You and give ourselves for others. Thank You for the promise that we, too, will be raised, and that we will one day see our Lord face to face. In Jesus name, Amen.
+</body></slide>
+  <slide>
+  <body/>
+</slide></slides></slide_group>
+  <slide_group name="Assurance of Pardon" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Assurance of Pardon</title>
+  <subtitle></subtitle>
+  <notes></notes>
   <slides>
   <slide>
-  <body>Colossians 1:15–20</body></slide>
+  <body>Assurance of Pardon</body></slide>
   <slide>
-  <body>15 He is the image of the invisible God, the firstborn of all creation.</body></slide>
+  <body>Micah 7:18</body></slide>
   <slide>
-  <body>16 For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities — all things were created through him and for him.</body></slide>
+  <body>Who is a God like you, pardoning iniquity and passing over transgression for the remnant of his inheritance?</body></slide>
   <slide>
-  <body>17 And he is before all things, and in him all things hold together.</body></slide>
+  <body>He does not retain his anger forever, because he delights in steadfast love.</body></slide>
   <slide>
-  <body>18 And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent.</body></slide>
+  <body>Hebrew 9:28</body></slide>
   <slide>
-  <body>19 For in him all the fullness of God was pleased to dwell,</body></slide>
+  <body>So Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin</body></slide>
   <slide>
-  <body>20 and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.</body></slide></slides>
-  <subtitle>ESV</subtitle>
-  <notes/>
-</slide_group>
+  <body>but to save those who are eagerly waiting for him.</body></slide></slides></slide_group>
   <slide_group name="Song of Assurance" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Assurance</title>
   <subtitle/>
   <notes/>
   <slides>
   <slide>
-  <body/>
-</slide></slides></slide_group>
-  <slide_group name="Jesus Keep Me Near The Cross" type="song" presentation="V1 C V2 C V3 C V4 C C" path="" transition="0"/>
+  <body>Song of Assurance
+My Heart Is Filled</body></slide></slides></slide_group>
+  <slide_group name="My Heart Is Filled" type="song" presentation="V1 V2 V3 T" path=""/>
   <slide_group name="Affirmation of Faith" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Affirmation of Faith</title>
   <subtitle/>
@@ -119,28 +116,35 @@ Colossians 1:15–20</body></slide></slides></slide_group>
   <body/>
 </slide>
   <slide>
-  <body>Affirmation of Faith
-WESTMINSTER CONFESSION OF FAITH 8.1 &amp; 8.5 (MESV)</body></slide>
+  <body>Affirmation of Faith WESTMINSTER CONFESSION OF FAITH 2.2 &amp; 2.3 (MESV)  
+</body></slide>
   <slide>
-  <body>CONGREGATION:  God was pleased, in his eternal purpose, to choose and ordain the Lord Jesus,</body></slide>
+  <body>CONGREGATION:  God has all life, glory, goodness, and blessedness in and of  himself. 
+</body></slide>
   <slide>
-  <body>his only begotten Son, to be the mediator between God and human beings.</body></slide>
+  <body>He alone is all-sufficient, in and to himself, not standing in need of any  creatures which he has made, nor deriving any glory from them, but rather  manifesting his own glory in, by, to, and on them. 
+</body></slide>
   <slide>
-  <body>As the mediator, he is the prophet, priest, and king, the head and Savior of the church,</body></slide>
+  <body>He alone is the fountain of all  being, of whom, through whom, and to whom are all things. 
+</body></slide>
   <slide>
-  <body>the heir of all things, and the judge of the world.</body></slide>
+  <body>He has absolute  sovereignty over them, to do by them, for them, or upon them whatever he  pleases. 
+</body></slide>
   <slide>
-  <body>God gave to him, from all eternity, a people to be his seed and to be by him,</body></slide>
+  <body>In his sight all things are open and manifest; his knowledge is infinite,  infallible, and independent of his creatures; so that nothing to him is contingent  or uncertain. 
+</body></slide>
   <slide>
-  <body>in time, redeemed, called, justified, sanctified, and glorified.</body></slide>
+  <body>He is most holy in all his counsels, in all his works, and in all his  commands. 
+</body></slide>
   <slide>
-  <body>The Lord Jesus, by his perfect obedience and sacrifice of himself—</body></slide>
+  <body>To him is due from angels and men, and every other creature,  whatever worship, service, or obedience he is pleased to require of them. 
+</body></slide>
   <slide>
-  <body>which he through the eternal Spirit once offered up to God has fully satisfied the justice of his Father.</body></slide>
+  <body>         In the unity of the Godhead there are three persons, of one substance,  power, and eternity: God the Father, God the Son, and God the Holy Spirit. 
+</body></slide>
   <slide>
-  <body>He purchased not only reconciliation but also an everlasting inheritance in the kingdom of heaven</body></slide>
-  <slide>
-  <body>for all those whom the Father has given to him.</body></slide></slides></slide_group>
+  <body>The  Father is of none, neither begotten nor proceeding; the Son is eternally begotten  of the Father; the Holy Spirit eternally proceeds from the Father and the Son. 
+</body></slide></slides></slide_group>
   <slide_group name="Scripture Reading" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Scripture Reading</title>
   <subtitle/>
@@ -148,52 +152,42 @@ WESTMINSTER CONFESSION OF FAITH 8.1 &amp; 8.5 (MESV)</body></slide>
   <slides>
   <slide>
   <body>Scripture Reading
-Numbers 12:1–16 
+Genesis 3:8–19 
 
 </body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Numbers 12:1–16|ESV" print="true">
-  <title>Numbers 12:1–16|ESV</title>
+  <slide_group type="scripture" name="Genesis 3:8–19|ESV" print="true">
+  <title>Genesis 3:8–19|ESV</title>
   <slides>
   <slide>
-  <body>Numbers 12:1–16</body></slide>
+  <body>Genesis 3:8–19</body></slide>
   <slide>
-  <body>1 Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman.</body></slide>
+  <body>8 And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.</body></slide>
   <slide>
-  <body>2 And they said, “Has the LORD indeed spoken only through Moses? Has he not spoken through us also?” And the LORD heard it.</body></slide>
+  <body>9 But the LORD God called to the man and said to him, “Where are you?”</body></slide>
   <slide>
-  <body>3 Now the man Moses was very meek, more than all people who were on the face of the earth.</body></slide>
+  <body>10 And he said, “I heard the sound of you in the garden, and I was afraid, because I was naked, and I hid myself.”</body></slide>
   <slide>
-  <body>4 And suddenly the LORD said to Moses and to Aaron and Miriam, “Come out, you three, to the tent of meeting.” And the three of them came out.</body></slide>
+  <body>11 He said, “Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?”</body></slide>
   <slide>
-  <body>5 And the LORD came down in a pillar of cloud and stood at the entrance of the tent and called Aaron and Miriam, and they both came forward.</body></slide>
+  <body>12 The man said, “The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.”</body></slide>
   <slide>
-  <body>6 And he said, “Hear my words: If there is a prophet among you, I the LORD make myself known to him in a vision; I speak with him in a dream.</body></slide>
+  <body>13 Then the LORD God said to the woman, “What is this that you have done?” The woman said, “The serpent deceived me, and I ate.”:</body></slide>
   <slide>
-  <body>7 Not so with my servant Moses. He is faithful in all my house.</body></slide>
+  <body>14 The LORD God said to the serpent,: “Because you have done this, cursed are you above all livestock and above all beasts of the field; on your belly you shall go, and dust you shall eat all the days of your life.</body></slide>
   <slide>
-  <body>8 With him I speak mouth to mouth, clearly, and not in riddles, and he beholds the form of the LORD. Why then were you not afraid to speak against my servant Moses?”</body></slide>
+  <body>15 I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.”</body></slide>
   <slide>
-  <body>9 And the anger of the LORD was kindled against them, and he departed.:</body></slide>
+  <body>16 To the woman he said,: “I will surely multiply your pain in childbearing; in pain you shall bring forth children. Your desire shall be contrary to your husband, but he shall rule over you.”</body></slide>
   <slide>
-  <body>10 When the cloud removed from over the tent, behold, Miriam was leprous, like snow. And Aaron turned toward Miriam, and behold, she was leprous.</body></slide>
+  <body>17 And to Adam he said,: “Because you have listened to the voice of your wife and have eaten of the tree of which I commanded you, ‘You shall not eat of it,’ cursed is the ground because of you; in pain you shall eat of it all the days of your life;</body></slide>
   <slide>
-  <body>11 And Aaron said to Moses, “Oh, my lord, do not punish us because we have done foolishly and have sinned.</body></slide>
+  <body>18 thorns and thistles it shall bring forth for you; and you shall eat the plants of the field.</body></slide>
   <slide>
-  <body>12 Let her not be as one dead, whose flesh is half eaten away when he comes out of his mother’s womb.”</body></slide>
-  <slide>
-  <body>13 And Moses cried to the LORD, “O God, please heal her — please.”</body></slide>
-  <slide>
-  <body>14 But the LORD said to Moses, “If her father had but spit in her face, should she not be shamed seven days? Let her be shut outside the camp seven days, and after that she may be brought in again.”</body></slide>
-  <slide>
-  <body>15 So Miriam was shut outside the camp seven days, and the people did not set out on the march till Miriam was brought in again.</body></slide>
-  <slide>
-  <body>16 After that the people set out from Hazeroth, and camped in the wilderness of Paran.</body></slide>
+  <body>19 By the sweat of your face you shall eat bread, till you return to the ground, for out of it you were taken; for you are dust, and to dust you shall return.”</body></slide>
   <slide>
   <body>LEADER: This is the Word of the Lord. 
  CONGREGATION: Thanks be to God.</body></slide></slides>
-  <subtitle>ESV</subtitle>
-  <notes/>
-</slide_group>
+  <subtitle>ESV</subtitle></slide_group>
   <slide_group name="Pastoral Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Pastoral Prayer</title>
   <subtitle/>
@@ -1532,56 +1526,24 @@ N771RFdtCuAOCevFSMM855Fc1jtVQ//Z</background></style>
   <presentation/>
   <slides>
   <slide>
-  <body>Sermon    “An Essential Expedient Exhortation, with a Remedy” 
-Hebrews 13:22; 1:1–2:4 
-</body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Hebrews 13:22; 1:1–2:4|ESV" print="true" seconds="0" loop="false" transition="0">
-  <title>Hebrews 13:22; 1:1–2:4|ESV</title>
-  <subtitle>ESV</subtitle>
-  <notes/>
+  <body>The Incarnation - The True God Who is The Word
+John 1:1–5 </body></slide></slides></slide_group>
+  <slide_group type="scripture" name="John 1:1–5 |ESV" print="true">
+  <title>John 1:1–5 |ESV</title>
   <slides>
   <slide>
-  <body>Hebrews 13:22</body></slide>
+  <body>John 1:1–5</body></slide>
   <slide>
-  <body>22 I appeal to you, brothers, bear with my word of exhortation, for I have written to you briefly.</body></slide>
+  <body>1 In the beginning was the Word, and the Word was with God, and the Word was God.</body></slide>
   <slide>
-  <body>Hebrews 1:1–2:4</body></slide>
+  <body>2 He was in the beginning with God.</body></slide>
   <slide>
-  <body>1 Long ago, at many times and in many ways, God spoke to our fathers by the prophets,</body></slide>
+  <body>3 All things were made through him, and without him was not any thing made that was made.</body></slide>
   <slide>
-  <body>2 but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.</body></slide>
+  <body>4 In him was life, and the life was the light of men.</body></slide>
   <slide>
-  <body>3 He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,</body></slide>
-  <slide>
-  <body>4 having become as much superior to angels as the name he has inherited is more excellent than theirs.:</body></slide>
-  <slide>
-  <body>5 For to which of the angels did God ever say,: “You are my Son, today I have begotten you”? Or again,: “I will be to him a father, and he shall be to me a son”?</body></slide>
-  <slide>
-  <body>6 And again, when he brings the firstborn into the world, he says,: “Let all God’s angels worship him.”</body></slide>
-  <slide>
-  <body>7 Of the angels he says,: “He makes his angels winds, and his ministers a flame of fire.”</body></slide>
-  <slide>
-  <body>8 But of the Son he says,: “Your throne, O God, is forever and ever, the scepter of uprightness is the scepter of your kingdom.</body></slide>
-  <slide>
-  <body>9 You have loved righteousness and hated wickedness; therefore God, your God, has anointed you with the oil of gladness beyond your companions.”</body></slide>
-  <slide>
-  <body>10 And,: “You, Lord, laid the foundation of the earth in the beginning, and the heavens are the work of your hands;</body></slide>
-  <slide>
-  <body>11 they will perish, but you remain; they will all wear out like a garment,</body></slide>
-  <slide>
-  <body>12 like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end.”</body></slide>
-  <slide>
-  <body>13 And to which of the angels has he ever said,: “Sit at my right hand until I make your enemies a footstool for your feet”?</body></slide>
-  <slide>
-  <body>14 Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation?:</body></slide>
-  <slide>
-  <body>1 Therefore we must pay much closer attention to what we have heard, lest we drift away from it.</body></slide>
-  <slide>
-  <body>2 For since the message declared by angels proved to be reliable, and every transgression or disobedience received a just retribution,</body></slide>
-  <slide>
-  <body>3 how shall we escape if we neglect such a great salvation? It was declared at first by the Lord, and it was attested to us by those who heard,</body></slide>
-  <slide>
-  <body>4 while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit distributed according to his will.</body></slide></slides></slide_group>
+  <body>5 The light shines in the darkness, and the darkness has not overcome it.</body></slide></slides>
+  <subtitle>ESV</subtitle></slide_group>
   <slide_group name="Song of Response" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Response</title>
   <subtitle/>
@@ -1589,8 +1551,8 @@ Hebrews 13:22; 1:1–2:4
   <slides>
   <slide>
   <body>Song of Response
-All I Have Is Christ</body></slide></slides></slide_group>
-  <slide_group name="All I Have Is Christ" type="song" presentation="V1 V2 C C V3 C C C" path=""/>
+O Come O Come Emmanuel</body></slide></slides></slide_group>
+  <slide_group name="O Come O Come Emmanuel" type="song" presentation="V1 C1 V2 C1 V3 C1 V4 C1 V6 C1 C1" path=""/>
   <slide_group name="Prayer for Tithes &amp; Offering" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Prayer for Tithes &amp; Offering</title>
   <subtitle/>
@@ -1605,21 +1567,22 @@ All I Have Is Christ</body></slide></slides></slide_group>
   <notes/>
   <slides>
   <slide>
-  <body>Announcements</body></slide>
+  <body>Welcome to Grace Christian Church! We are glad you can join us.
+</body></slide>
   <slide>
-  <body>Welcome to Grace Christian Church! We are glad you can join us.</body></slide>
+  <body>We will celebrate the Lord’s Supper on Sunday, 12/12.
+</body></slide>
   <slide>
-  <body>We are pleased to have Steve Hollidge as our guest preacher today.</body></slide>
+  <body>We plan to have on-site Baptism and Profession of Faith worship service on 12/19. Please contact Pastor Arthur if you’d like to be baptized or to become a member of GCC. Baptism and Membership classes begin today.
+</body></slide>
   <slide>
-  <body>There will be a GCC Youth Spring Hiking Trip on 5/29 from 1–4pm; location:Scotts Run Loop Hike on the Potomac Heritage Trail</body></slide>
+  <body>Weekly online EM Fellowship/Sermon Discussion is on Sunday, 4–5pm over Zoom. All are invited.
+</body></slide>
   <slide>
-  <body>Praise the Lord! The visa interview of Mr. Zhong Ming Chen has been approved.</body></slide>
+  <body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30–9:30pm through Zoom. All are invited.
+</body></slide>
   <slide>
-  <body>Weekly online EM Fellowship/Sermon Discussion is on Sunday, 2–3pm over Zoom.</body></slide>
-  <slide>
-  <body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30–9:30pm over Zoom online.</body></slide>
-  <slide>
-  <body>We encourage brothers and sisters who worship online to continue with weekly tithing/offering.</body></slide></slides></slide_group>
+  <body>We encourage brothers and sisters who worship online to continue with weekly tithing/offering by mailing/dropping off checks to GCC, using online payment through your bank, or transferring money via PayPal to graceccpca@gmail.com (transaction fees apply).</body></slide></slides></slide_group>
   <slide_group name="Doxology" type="song" presentation="V1" path="" transition="0"/>
   <slide_group name="Benediction &amp; Amen" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Benediction &amp; Amen</title>
