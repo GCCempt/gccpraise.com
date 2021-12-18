@@ -24,10 +24,8 @@ $alpha = "";
 $preview = "All In All";
 $s = false;
 $searchresults = "";
-if (!is_dir("www/xml/")) {
-    mkdir("www/xml/");
-}
-$dir = "www/xml/";
+
+$dir = "songs/";
 $files = array();
 $dir1 = $dir;
 $thedir = opendir($dir1);

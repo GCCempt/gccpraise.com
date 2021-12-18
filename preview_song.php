@@ -31,7 +31,7 @@
 <div id="header"><img src="images/gcclogo.gif">
 
 <?php
-$dir = "www/xml/";
+$dir = "songs/";
 $song=$_GET['s'];
 $menu='<div id="menu"><a href="preview_index.php">Song Index</a> <a href="https://docs.google.com/spreadsheets/d/1_FAwmbf0nH7_qV2MJVWeMRbm--1I_AdLFlaFOXtl8U0/edit#gid=0" TARGET="_blank">Worship Schedule</a> <a href="https://songselect.ccli.com/" TARGET="_blank">CCLI Song Select</a></div>';
 
