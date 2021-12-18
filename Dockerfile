@@ -2,6 +2,7 @@
 # https://hub.docker.com/_/php
 FROM php:8.0-apache
 RUN apt-get update -y && apt-get upgrade -y && apt-get dist-upgrade -y ; apt-get install libzip-dev zip -y && docker-php-ext-install zip
+RUN mkdir /var/www/html/www/xml
 
 # Configure PHP for Cloud Run.
 # Precompile PHP code with opcache.
