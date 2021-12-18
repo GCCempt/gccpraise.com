@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<set name="2021-05-02 GCCEM Sunday Worship">
+<set name="2021-11-21 GCCEM Sunday Worship">
   <slide_groups>
   <slide_group name="GCC LOGO" type="image" print="true" descriptions_in_subtitle="false" seconds="0" loop="false" transition="0" resize="screen" keep_aspect="false" link="true">
   <title>GCC LOGO</title>
@@ -18,23 +18,19 @@
   <slides>
   <slide>
   <body>Call To Worship
-Titus 2:11–14</body></slide>
+Revelation 11:15–17</body></slide>
   <slide>
-  <body>LEADER:  For the grace of God has appeared,  
-bringing salvation for all people,</body></slide>
+  <body>LEADER:  Then the seventh angel blew his trumpet, and there were loud voices in heaven, saying,</body></slide>
   <slide>
-  <body>CONGREGATION:  training us to renounce ungodliness and worldly passions,</body></slide>
+  <body>“The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever.”</body></slide>
   <slide>
-  <body>and to live self-controlled, upright, and godly lives in the present age,</body></slide>
+  <body>And the twenty-four elders who sit on their thrones before God fell on their faces and worshiped God, saying,</body></slide>
   <slide>
-  <body>LEADER:  waiting for our blessed hope, the appearing of the glory  
-of our great God and Savior Jesus Christ,</body></slide>
+  <body>“We give thanks to you, Lord God Almighty,who is and who was,</body></slide>
   <slide>
-  <body>CONGREGATION:  who gave himself for us to redeem us from all lawlessness</body></slide>
+  <body>for you have taken your great power and begun to reign.</body></slide>
   <slide>
-  <body>and to purify for himself a people for his own possession who are zealous for good works.</body></slide>
-  <slide>
-  <body>LEADER:  Therefore, let us worship Jesus Christ, the risen one, who lives among us.</body></slide></slides></slide_group>
+  <body>Therefore, let us come together to worship and thank our God with a joyful heart!</body></slide></slides></slide_group>
   <slide_group name="Song of Approach" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Approach</title>
   <subtitle/>
@@ -42,8 +38,8 @@ of our great God and Savior Jesus Christ,</body></slide>
   <slides>
   <slide>
   <body>Song of Approach
-Jesus Shall Reign (To Our King Be Highest Praise)</body></slide></slides></slide_group>
-  <slide_group name="Jesus Shall Reign (To Our King Be Highest Praise)" type="song" presentation="V1 V2 C V3 C V4 C C" path="" transition="0"/>
+10000 Reasons - Bless The Lord</body></slide></slides></slide_group>
+  <slide_group name="10000 Reasons - Bless The Lord" type="song" presentation="C V1 C V2 C V3 C C E" path=""/>
   <slide_group name="Invocation Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Invocation Prayer</title>
   <subtitle/>
@@ -58,55 +54,51 @@ Jesus Shall Reign (To Our King Be Highest Praise)</body></slide></slides></slide
   <slides>
   <slide>
   <body>Songs of Praise
-Still
-Come Behold The Wondrous Mystery</body></slide></slides></slide_group>
-  <slide_group name="Still" type="song" presentation="V1 C V2 C C E" path=""/>
-  <slide_group name="Come Behold The Wondrous Mystery" type="song" presentation="V1 V2 V3 V4 E" path=""/>
+Jesus Thank You
+Christ Our Hope In Life And Death</body></slide></slides></slide_group>
+  <slide_group name="Jesus Thank You" type="song" presentation="V1 C V2 C C T B B C E" path=""/>
+  <slide_group name="Christ Our Hope In Life And Death" type="song" presentation="V1 C V2 C V3 C C T" path=""/>
   <slide_group name="Confession of Sin" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Confession of Sin</title>
-  <subtitle></subtitle>
-  <notes></notes>
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <body>Confession of Sin</body></slide>
   <slide>
-  <body>Almighty God, Father of our Lord Jesus Christ, Maker of all things, Judge of all men;</body></slide>
+  <body>Our gracious Father,</body></slide>
   <slide>
-  <body>we acknowledge and bewail our manifold sins and wickedness, which we, from time to time, most grievously have committed,</body></slide>
+  <body>In these times of uncertainty, forgive us for being slaves to fear—for living as though You were not Almighty God.</body></slide>
   <slide>
-  <body>by thought, word, and deed, against Your Divine Majesty, provoking most justly Your wrath and indignation against us.</body></slide>
+  <body>We fear punishment, so we devote ourselves to doing good deeds in order to control the way You treat us.</body></slide>
   <slide>
-  <body>We do earnestly repent, and are heartily sorry for these our misdoings;</body></slide>
+  <body>We fear shame, so we play to others’ expectations in order to make them admire and respect us.</body></slide>
   <slide>
-  <body>the remembrance of them is grievous unto us; the burden of them is intolerable.</body></slide>
+  <body>We fear not having enough, so we respond unthinkingly to sale prices regardless of what we really need.</body></slide>
   <slide>
-  <body>Have mercy upon us, have mercy upon us, most merciful Father; for Your Son our Lord Jesus Christ’s sake, forgive us all that is past;</body></slide>
+  <body>We fear death, so we hold tenaciously to the things of this world, ceasing to be a people whose hope lies in You alone.</body></slide>
   <slide>
-  <body>and grant that we may ever hereafter serve and please You in newness of life, to the honor and glory of Your Name; through Jesus our Lord.</body></slide>
+  <body>Lord, forgive us for living in a way that denies Your love, rejects Your grace, and forgets Your sovereignty.</body></slide>
   <slide>
-  <body>Amen.</body></slide></slides></slide_group>
+  <body>Show us what it cost You to give up Your Son that we might become Your sons and daughters. In Jesus name, Amen.</body></slide>
+  <slide>
+  <body/>
+</slide></slides></slide_group>
   <slide_group name="Assurance of Pardon" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Assurance of Pardon</title>
   <subtitle/>
   <notes/>
   <slides>
   <slide>
-  <body>Assurance of Pardon
-Psalm 103:11–13</body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Psalm 103:11–13|ESV" print="true">
-  <title>Psalm 103:11–13</title>
-  <slides>
+  <body>Assurance of Pardon</body></slide>
   <slide>
-  <body>Psalm 103:11–13</body></slide>
+  <body>Psalm 85:1–3</body></slide>
   <slide>
-  <body>11 For as high as the heavens are above the earth, so great is his steadfast love toward those who fear him;</body></slide>
+  <body>1Lord, you were favorable to your land; you restored the fortunes of Jacob.</body></slide>
   <slide>
-  <body>12 as far as the east is from the west, so far does he remove our transgressions from us.</body></slide>
+  <body>2You forgave the iniquity of your people; you covered all their sin.</body></slide>
   <slide>
-  <body>13 As a father shows compassion to his children, so the LORD shows compassion to those who fear him.</body></slide></slides>
-  <subtitle>ESV</subtitle>
-  <notes/>
-</slide_group>
+  <body>3You withdrew all your wrath; you turned from your hot anger.</body></slide></slides></slide_group>
   <slide_group name="The Gloria Patri" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>The Gloria Patri</title>
   <subtitle/>
@@ -121,36 +113,35 @@ Psalm 103:11–13</body></slide></slides></slide_group>
 World without end. Amen, amen.</body></slide></slides></slide_group>
   <slide_group name="Affirmation of Faith" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Affirmation of Faith</title>
-  <subtitle/>
-  <notes/>
+  <subtitle></subtitle>
+  <notes></notes>
   <slides>
   <slide>
-  <body>Affirmation of Faith
-HEIDELBERG CATECHISM, Q&amp;A 60, 61</body></slide>
+  <body></body></slide>
   <slide>
-  <body>Q.60 (LEADER):  How are you righteous before God?</body></slide>
+  <body>Affirmation of Faith WESTMINSTER CONFESSION OF FAITH 8.1 &amp; 8.5 (MESV)</body></slide>
   <slide>
-  <body>A (ALL TOGETHER):  Only by true faith in Jesus Christ.</body></slide>
+  <body>CONGREGATION:  God was pleased, in his eternal purpose, to choose and ordain the  Lord Jesus,</body></slide>
   <slide>
-  <body>Although my conscience accuses me that I have grievously sinned against all God's commandments,</body></slide>
+  <body>his only begotten Son, to be the mediator between God and human  beings.</body></slide>
   <slide>
-  <body>have never kept any of them, and am still inclined to all evil,</body></slide>
+  <body>As the mediator, he is the prophet, priest, and king, the head and Savior  of the church, the heir of all things,</body></slide>
   <slide>
-  <body>yet God, without any merit of my own, out of mere grace, imputes to me the perfect satisfaction, righteousness, and holiness of Christ.</body></slide>
+  <body>and the judge of the world.</body></slide>
   <slide>
-  <body>He grants these to me as if I had never had nor committed any sin,</body></slide>
+  <body>God gave to  him, from all eternity, a people to be his seed and to be by him, in time,</body></slide>
   <slide>
-  <body>and as if I myself had accomplished all the obedience which Christ has rendered for me,</body></slide>
+  <body>redeemed, called, justified, sanctified, and glorified.</body></slide>
   <slide>
-  <body>if only I accept this gift with a believing heart.</body></slide>
+  <body>The Lord Jesus, by his perfect obedience and sacrifice of himself—</body></slide>
   <slide>
-  <body>Q.61 (LEADER):  Why do you say that you are righteous only by faith?</body></slide>
+  <body>which he through the eternal Spirit once offered up to God—</body></slide>
   <slide>
-  <body>A (ALL TOGETHER):  Not that I am acceptable to God on account of the worthiness of my faith,</body></slide>
+  <body>has fully satisfied  the justice of his Father.</body></slide>
   <slide>
-  <body>for only the satisfaction, righteousness, and holiness of Christ is my righteousness before God.</body></slide>
+  <body>He purchased not only reconciliation but also an  everlasting inheritance in the kingdom of heaven</body></slide>
   <slide>
-  <body>I can receive this righteousness and make it mine my own by faith only.</body></slide></slides></slide_group>
+  <body>for all those whom the Father  has given to him.</body></slide></slides></slide_group>
   <slide_group name="Scripture Reading" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Scripture Reading</title>
   <subtitle/>
@@ -158,22 +149,26 @@ HEIDELBERG CATECHISM, Q&amp;A 60, 61</body></slide>
   <slides>
   <slide>
   <body>Scripture Reading
-Genesis 12:1–4, 15:1–6 
+Psalm 23:1–6 
 
 </body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Genesis 12:1–4, 15:1–6|ESV" print="true">
-  <title>Genesis 12:1–4, 15:1–6</title>
+  <slide_group type="scripture" name="Psalm 23:1–6|ESV" print="true">
+  <title>Psalm 23:1–6|ESV</title>
   <slides>
   <slide>
-  <body>Genesis 12:1–4</body></slide>
+  <body>Psalm 23:1–6 A Psalm of David.:</body></slide>
   <slide>
-  <body>1 Now the LORD said to Abram, “Go from your country and your kindred and your father’s house to the land that I will show you.</body></slide>
+  <body>1 The LORD is my shepherd; I shall not want.</body></slide>
   <slide>
-  <body>2 And I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing.</body></slide>
+  <body>2 He makes me lie down in green pastures. He leads me beside still waters.</body></slide>
   <slide>
-  <body>3 I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed.”:</body></slide>
+  <body>3 He restores my soul. He leads me in paths of righteousness for his name’s sake.</body></slide>
   <slide>
-  <body>4 So Abram went, as the LORD had told him, and Lot went with him. Abram was seventy-five years old when he departed from Haran. 15:1–6 Error: Passage not found</body></slide>
+  <body>4 Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.</body></slide>
+  <slide>
+  <body>5 You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows.</body></slide>
+  <slide>
+  <body>6 Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the LORD forever.</body></slide>
   <slide>
   <body>LEADER: This is the Word of the Lord. 
  CONGREGATION: Thanks be to God.</body></slide></slides>
@@ -1518,38 +1513,35 @@ N771RFdtCuAOCevFSMM855Fc1jtVQ//Z</background></style>
   <presentation/>
   <slides>
   <slide>
-  <body>Sermon    “The Gospel Mentality” 
-Galatians 3:1–14 
-</body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Galatians 3:1–14|ESV" print="true">
-  <title>Galatians 3:1–14</title>
+  <body>Posture of the Beloved
+Matthew 6:24–34 </body></slide></slides></slide_group>
+  <slide_group type="scripture" name="Matthew 6:24–34 |ESV" print="true">
+  <title>Matthew 6:24–34 |ESV</title>
   <slides>
   <slide>
-  <body>Galatians 3:1–14</body></slide>
+  <body>Matthew 6:24–34</body></slide>
   <slide>
-  <body>1 O foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly portrayed as crucified.</body></slide>
+  <body>24 “No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money.:</body></slide>
   <slide>
-  <body>2 Let me ask you only this: Did you receive the Spirit by works of the law or by hearing with faith?</body></slide>
+  <body>25 “Therefore I tell you, do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing?</body></slide>
   <slide>
-  <body>3 Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh?</body></slide>
+  <body>26 Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they?</body></slide>
   <slide>
-  <body>4 Did you suffer so many things in vain—if indeed it was in vain?</body></slide>
+  <body>27 And which of you by being anxious can add a single hour to his span of life?</body></slide>
   <slide>
-  <body>5 Does he who supplies the Spirit to you and works miracles among you do so by works of the law, or by hearing with faith—6 just as Abraham “believed God, and it was counted to him as righteousness”?:</body></slide>
+  <body>28 And why are you anxious about clothing? Consider the lilies of the field, how they grow: they neither toil nor spin,</body></slide>
   <slide>
-  <body>7 Know then that it is those of faith who are the sons of Abraham.</body></slide>
+  <body>29 yet I tell you, even Solomon in all his glory was not arrayed like one of these.</body></slide>
   <slide>
-  <body>8 And the Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, “In you shall all the nations be blessed.”</body></slide>
+  <body>30 But if God so clothes the grass of the field, which today is alive and tomorrow is thrown into the oven, will he not much more clothe you, O you of little faith?</body></slide>
   <slide>
-  <body>9 So then, those who are of faith are blessed along with Abraham, the man of faith.:</body></slide>
+  <body>31 Therefore do not be anxious, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’</body></slide>
   <slide>
-  <body>10 For all who rely on works of the law are under a curse; for it is written, “Cursed be everyone who does not abide by all things written in the Book of the Law, and do them.”</body></slide>
+  <body>32 For the Gentiles seek after all these things, and your heavenly Father knows that you need them all.</body></slide>
   <slide>
-  <body>11 Now it is evident that no one is justified before God by the law, for “The righteous shall live by faith.”</body></slide>
+  <body>33 But seek first the kingdom of God and his righteousness, and all these things will be added to you.:</body></slide>
   <slide>
-  <body>12 But the law is not of faith, rather “The one who does them shall live by them.”</body></slide>
-  <slide>
-  <body>13 Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, “Cursed is everyone who is hanged on a tree”—14 so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith.</body></slide></slides>
+  <body>34 “Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.</body></slide></slides>
   <subtitle>ESV</subtitle>
   <notes/>
 </slide_group>
@@ -1575,17 +1567,19 @@ By Faith</body></slide></slides></slide_group>
   <notes/>
   <slides>
   <slide>
-  <body>Announcements</body></slide>
-  <slide>
   <body>Welcome to Grace Christian Church! We are glad you can join us.</body></slide>
   <slide>
-  <body>We will celebrate the Lord’s Supper next Sunday, 5/9.</body></slide>
+  <body>We are pleased to have Mr. Albert Wong as our guest preacher today.</body></slide>
   <slide>
-  <body>Weekly online EM Fellowship/Sermon Discussion is on Sunday, 2–3pm over Zoom. All are invited.</body></slide>
+  <body>All packed shoeboxes for Samaritan’s Purse for Operation Christmas Child are to be collected today, 11/21.</body></slide>
   <slide>
-  <body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30–9:30pm over Zoom online. All are invited.</body></slide>
+  <body>Pastor Arthur and Elder Eric cordially invite you to an EM and Youth Family Thanksgiving Brunch on Friday, 11/26, 11am–2pm; location TBD.</body></slide>
   <slide>
-  <body>We encourage brothers and sisters who worship online to continue with weekly tithing/offering.</body></slide></slides></slide_group>
+  <body>We plan to have on-site Baptism and Profession of Faith worship service on 12/19.</body></slide>
+  <slide>
+  <body>There will be no Bible Study/Prayer Meeting this Wednesday, 11/24. It will resume next Wednesday, 12/1.</body></slide>
+  <slide>
+  <body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30–9:30pm through Zoom. All are invited.</body></slide></slides></slide_group>
   <slide_group name="Doxology" type="song" presentation="V1" path="" transition="0"/>
   <slide_group name="Benediction &amp; Amen" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Benediction &amp; Amen</title>

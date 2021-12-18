@@ -1,4 +1,4 @@
-<set name="JON GCCEM Sunday Worship">
+<set name="SKYHAWK GCCEM Sunday Worship">
   <slide_groups>
   <slide_group name="GCC LOGO" type="image" print="true" descriptions_in_subtitle="false" seconds="0" loop="false" transition="0" resize="screen" keep_aspect="false" link="true">
   <title>GCC LOGO</title>
@@ -15,20 +15,13 @@
   <subtitle />
   <notes />
   <slides><slide><body>Call To Worship
-Psalm 103:8&#8211;13 
-</body></slide><slide><body>LEADER:  The LORD is merciful and gracious, 
-slow to anger and abounding in steadfast love. 
-</body></slide><slide><body>CONGREGATION:  He will not always chide, 
-nor will he keep his anger forever. 
-</body></slide><slide><body>LEADER:  He does not deal with us according to our sins, 
-nor repay us according to our iniquities. 
-</body></slide><slide><body>CONGREGATION:  For as high as the heavens are above the earth, 
-so great is his steadfast love toward those who fear him; 
-</body></slide><slide><body>LEADER:  as far as the east is from the west, 
-so far does he remove our transgressions from us. 
-</body></slide><slide><body>ALL TOGETHER:  As a father shows compassion to his children, 
-so the Lord shows compassion to those who fear him. 
-LEADER:  Therefore, let us worship Him with a joyful heart! 
+based on Psalm 27; John 4:23 
+</body></slide><slide><body>LEADER:  Let us worship God, our light and our salvation.  
+</body></slide><slide><body>CONGREGATION:  The Lord is the stronghold of our lives.  </body></slide><slide><body>LEADER:  We desire to live in God&#8217;s house  
+and to seek God in his holy temple. 
+</body></slide><slide><body>CONGREGATION:  We have come with shouts of joy,   to sing and to make music to the Lord.  </body></slide><slide><body>LEADER:  Let us worship God in spirit and in truth. 
+</body></slide><slide><body>ALL TOGETHER:  Teach us your ways and make straight our paths  
+in this hour of worship and always. 
 </body></slide></slides>
 </slide_group>
   <slide_group name="Song of Approach" type="custom" print="true" seconds="0" loop="false" transition="0">
@@ -38,28 +31,29 @@ LEADER:  Therefore, let us worship Him with a joyful heart!
   <slides>
   <slide>
   <body>Song of Approach
-Jesus Shall Reign (To Our King Be Highest Praise)</body></slide></slides></slide_group>
-  <slide_group name="Jesus Shall Reign (To Our King Be Highest Praise)" type="song" presentation="V1 V2 C V3 C V4 C C" path="" /><slide_group name="Invocation Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
+Rejoice The Lord Is King</body></slide></slides></slide_group>
+  <slide_group name="Rejoice The Lord Is King" type="song" presentation="V1 C V2 C V3 C V4 C V5 C C" path="" /><slide_group name="Invocation Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Invocation Prayer</title>
   <subtitle />
   <notes />
   <slides>
   <slide>
   <body>Invocation</body></slide></slides></slide_group>
-  <slide_group name="Songs of Praise" type="custom" print="true" seconds="0" loop="false" transition="0">
-  <title>Songs of Praise</title>
+  <slide_group name="Song of Praise" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Song of Praise</title>
   <subtitle />
   <notes />
   <slides>
   <slide>
-  <body>Songs of Praise
-Still
-Come Behold The Wondrous Mystery</body></slide></slides></slide_group>
-  <slide_group name="Still" type="song" presentation="V1 C V2 C C E" path="" /><slide_group name="Come Behold The Wondrous Mystery" type="song" presentation="V1 V2 V3 V4 E" path="" /><slide_group name="Confession of Sin" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <body>Song of Praise
+He Shall Reign Forevermore</body></slide></slides></slide_group>
+  <slide_group name="He Shall Reign Forevermore" type="song" presentation="V1 C1 V2 C1 B C2 T" path="" /><slide_group name="Confession of Sin" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Confession of Sin</title>
   <subtitle />
   <notes />
-  <slides><slide><body>Confession of Sin</body></slide><slide><body> Almighty God, Father of our Lord Jesus Christ,         Maker of all things, Judge of all men; we acknowledge and bewail our manifold sins and wickedness,             which we, from time to time, most grievously have committed, by thought, word, and deed,                 against Your Divine Majesty, provoking most justly Your wrath and indignation against us.</body></slide></slides>
+  <slides><slide><body>Confession of Sin</body></slide><slide><body>Gracious Lord, You are our Shepherd, yet we still want. You promise us rest, but we refuse to be still. You are our Righteousness, but we look to our own works. You are with us, but yet we still fear and do not trust Your promises of protection and shrink from our enemies. Lord, forgive us. Cause us to embrace Your goodness and mercy that we may truly believe that You will be with us all the days of our life. We pray this in the name of Christ. Amen.
+</body></slide><slide><body>
+</body></slide></slides>
 </slide_group>
   <slide_group name="Assurance of Pardon" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Assurance of Pardon</title>
@@ -67,42 +61,42 @@ Come Behold The Wondrous Mystery</body></slide></slides></slide_group>
   <notes />
   <slides>
   <slide>
-  <body>Assurance of Pardon
-Psalm 103:11&#8211;13</body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Psalm 103:11&#8211;13|ESV" print="true"><title>Psalm 103:11&#8211;13|ESV</title><slides><slide><body>Psalm 103:11&#8211;13</body></slide><slide><body>11 For as high as the heavens are above the earth, so great is his steadfast love toward those who fear him;</body></slide><slide><body>12 as far as the east is from the west, so far does he remove our transgressions from us.</body></slide><slide><body>13 As a father shows compassion to his children, so the LORD shows compassion to those who fear him.</body></slide></slides><subtitle>ESV</subtitle></slide_group><slide_group name="The Gloria Patri" type="custom" print="true" seconds="0" loop="false" transition="0">
-  <title>The Gloria Patri</title>
+  <body>Assurance of Pardon</body></slide><slide><body>Colossians 2:13&#8211;15
+</body></slide><slide><body>13And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses, 14by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross. 15He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him.</body></slide></slides></slide_group>
+  <slide_group name="Song of Assurance" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Song of Assurance</title>
   <subtitle />
   <notes />
   <slides>
   <slide>
-  <body>The Gloria Patri</body></slide>
-  <slide>
-  <body>Glory be to the Father, and to the Son, and to the Holy Ghost;</body></slide>
-  <slide>
-  <body>As it was in the beginning, is now, and ever shall be,
-World without end. Amen, amen.</body></slide></slides></slide_group>
-  <slide_group name="Affirmation of Faith" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <body>Song of Assurance
+Is He Worthy</body>
+</slide></slides></slide_group>
+  <slide_group name="Is He Worthy" type="song" presentation="V1 V2 C1 V3 C2 E" path="" /><slide_group name="Affirmation of Faith" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Affirmation of Faith</title>
   <subtitle />
   <notes />
   <slides>
   <slide>
   <body />
-</slide><slide><body>Affirmation of Faith
-HEIDELBERG CATECHISM Q&amp;A 1&amp;2 
-</body></slide><slide><body>Q.1 (LEADER):  What is your only comfort in life and death? 
-</body></slide><slide><body>A. (CONGREGATION):  That I am not my own, but belong with body and soul, both in 
-</body></slide><slide><body>life and in death, to my faithful Savior Jesus Christ. He has fully paid for all my 
-</body></slide><slide><body>sins with His precious blood, and has set me free from all the power of the devil. 
-</body></slide><slide><body>He also preserves me in such a way that without the will of my heavenly Father 
-</body></slide><slide><body>not a hair can fall from my head; indeed, all things must work together for my 
-</body></slide><slide><body>salvation. Therefore, by His Holy Spirit He also assures me of eternal life and 
-</body></slide><slide><body>makes me heartily willing and ready from now on to live for Him. 
-</body></slide><slide><body>Q.2. (LEADER):  What do you need to know in order to live and die in the joy of this 
-</body></slide><slide><body>comfort? 
-</body></slide><slide><body>A. (CONGREGATION):  First, how great my sins and misery are; second, how I am 
-</body></slide><slide><body>delivered from all my sins and misery; third, how I am to be thankful to God for 
-</body></slide><slide><body>such deliverance. 
+</slide><slide><body>Affirmation of Faith NICENE CREED  
+</body></slide><slide><body>CONGREGATION:  We believe in one God, the Father almighty, maker of heaven and  earth, of all things visible and invisible. 
+</body></slide><slide><body>         And in one Lord Jesus Christ, the only Son of God, begotten from the  Father before all ages, God from God, Light from Light, true God from true  God, begotten, not made; of the same essence as the Father. 
+</body></slide><slide><body>Through him all  things were made. 
+</body></slide><slide><body>For us and for our salvation he came down from heaven; he  became incarnate by the Holy Spirit and the virgin Mary, and was made human. 
+</body></slide><slide><body> He was crucified for us under Pontius Pilate; he suffered and was buried. 
+</body></slide><slide><body>The  third day he rose again, according to the Scriptures. 
+</body></slide><slide><body>He ascended to heaven and  is seated at the right hand of the Father. 
+</body></slide><slide><body>He will come again with glory to judge  the living and the dead. 
+</body></slide><slide><body>His kingdom will never end. 
+</body></slide><slide><body>         And we believe in the Holy Spirit, the Lord, the giver of life. 
+</body></slide><slide><body>He proceeds  from the Father and the Son, and with the Father and the Son is worshiped and  glorified. 
+</body></slide><slide><body>He spoke through the prophets. 
+</body></slide><slide><body>We believe in one holy catholic** and  apostolic church. 
+</body></slide><slide><body>We affirm one baptism for the forgiveness of sins. 
+</body></slide><slide><body>We look  forward to the resurrection of the dead, and to life in the world to come. 
+</body></slide><slide><body>Amen. 
+</body></slide><slide><body> **THAT IS, THE &#8220;UNIVERSAL&#8221; CHURCH OF ALL TRUE BELIEVERS IN ALL TIMES AND PLACES. 
 </body></slide></slides></slide_group>
   <slide_group name="Scripture Reading" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Scripture Reading</title>
@@ -111,10 +105,10 @@ HEIDELBERG CATECHISM Q&amp;A 1&amp;2
   <slides>
   <slide>
   <body>Scripture Reading
-Jeremiah 2:26&#8211;37 
+Isaiah 7:1&#8211;17 
 
 </body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Jeremiah 2:26&#8211;37|ESV" print="true"><title>Jeremiah 2:26&#8211;37|ESV</title><slides><slide><body>Jeremiah 2:26&#8211;37</body></slide><slide><body>26 &#8220;As a thief is shamed when caught, so the house of Israel shall be shamed: they, their kings, their officials, their priests, and their prophets,</body></slide><slide><body>27 who say to a tree, &#8216;You are my father,&#8217; and to a stone, &#8216;You gave me birth.&#8217; For they have turned their back to me, and not their face. But in the time of their trouble they say, &#8216;Arise and save us!&#8217;</body></slide><slide><body>28 But where are your gods that you made for yourself? Let them arise, if they can save you, in your time of trouble; for as many as your cities are your gods, O Judah.</body></slide><slide><body>29 &#8220;Why do you contend with me? You have all transgressed against me, declares the LORD.</body></slide><slide><body>30 In vain have I struck your children; they took no correction; your own sword devoured your prophets like a ravening lion.</body></slide><slide><body>31 And you, O generation, behold the word of the LORD. Have I been a wilderness to Israel, or a land of thick darkness? Why then do my people say, &#8216;We are free, we will come no more to you&#8217;?</body></slide><slide><body>32 Can a virgin forget her ornaments, or a bride her attire? Yet my people have forgotten me days without number.</body></slide><slide><body>33 &#8220;How well you direct your course to seek love! So that even to wicked women you have taught your ways.</body></slide><slide><body>34 Also on your skirts is found the lifeblood of the guiltless poor; you did not find them breaking in. Yet in spite of all these things</body></slide><slide><body>35 you say, &#8216;I am innocent; surely his anger has turned from me.&#8217; Behold, I will bring you to judgment for saying, &#8216;I have not sinned.&#8217;</body></slide><slide><body>36 How much you go about, changing your way! You shall be put to shame by Egypt as you were put to shame by Assyria.</body></slide><slide><body>37 From it too you will come away with your hands on your head, for the LORD has rejected those in whom you trust, and you will not prosper by them.</body></slide><slide><body>LEADER: This is the Word of the Lord. 
+  <slide_group type="scripture" name="Isaiah 7:1&#8211;17|ESV" print="true"><title>Isaiah 7:1&#8211;17|ESV</title><slides><slide><body>Isaiah 7:1&#8211;17</body></slide><slide><body>1 In the days of Ahaz the son of Jotham, son of Uzziah, king of Judah, Rezin the king of Syria and Pekah the son of Remaliah the king of Israel came up to Jerusalem to wage war against it, but could not yet mount an attack against it.</body></slide><slide><body>2 When the house of David was told, &#8220;Syria is in league with Ephraim,&#8221; the heart of Ahaz and the heart of his people shook as the trees of the forest shake before the wind.:</body></slide><slide><body>3 And the LORD said to Isaiah, &#8220;Go out to meet Ahaz, you and Shear-jashub your son, at the end of the conduit of the upper pool on the highway to the Washer&#8217;s Field.</body></slide><slide><body>4 And say to him, &#8216;Be careful, be quiet, do not fear, and do not let your heart be faint because of these two smoldering stumps of firebrands, at the fierce anger of Rezin and Syria and the son of Remaliah.</body></slide><slide><body>5 Because Syria, with Ephraim and the son of Remaliah, has devised evil against you, saying,</body></slide><slide><body>6 &#8220;Let us go up against Judah and terrify it, and let us conquer it for ourselves, and set up the son of Tabeel as king in the midst of it,&#8221;</body></slide><slide><body>7 thus says the Lord GOD:: &#8220;&#8216;It shall not stand, and it shall not come to pass.</body></slide><slide><body>8 For the head of Syria is Damascus, and the head of Damascus is Rezin. And within sixty-five years Ephraim will be shattered from being a people.</body></slide><slide><body>9 And the head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. If you are not firm in faith, you will not be firm at all.&#8217;&#8221;</body></slide><slide><body>10 Again the LORD spoke to Ahaz:</body></slide><slide><body>11 &#8220;Ask a sign of the LORD your God; let it be deep as Sheol or high as heaven.&#8221;</body></slide><slide><body>12 But Ahaz said, &#8220;I will not ask, and I will not put the LORD to the test.&#8221;</body></slide><slide><body>13 And he said, &#8220;Hear then, O house of David! Is it too little for you to weary men, that you weary my God also?</body></slide><slide><body>14 Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.</body></slide><slide><body>15 He shall eat curds and honey when he knows how to refuse the evil and choose the good.</body></slide><slide><body>16 For before the boy knows how to refuse the evil and choose the good, the land whose two kings you dread will be deserted.</body></slide><slide><body>17 The LORD will bring upon you and upon your people and upon your father&#8217;s house such days as have not come since the day that Ephraim departed from Judah &#8212; the king of Assyria!&#8221;</body></slide><slide><body>LEADER: This is the Word of the Lord. 
  CONGREGATION: Thanks be to God.</body></slide></slides><subtitle>ESV</subtitle></slide_group><slide_group name="Pastoral Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Pastoral Prayer</title>
   <subtitle />
@@ -1453,44 +1447,37 @@ N771RFdtCuAOCevFSMM855Fc1jtVQ//Z</background></style>
   <presentation />
   <slides>
   <slide>
-  <body>Sermon    &#8220;Pursuit of Blessedness&#8221; 
-Galatians 4:8&#8211;20 
-</body>
+  <body>The Incarnation: The True God Who Took on Flesh
+ John 1:8&#8211;18 </body>
 </slide></slides></slide_group>
-  <slide_group type="scripture" name="Galatians 4:8&#8211;20|ESV" print="true"><title>Galatians 4:8&#8211;20|ESV</title><slides><slide><body>Galatians 4:8&#8211;20</body></slide><slide><body>8 Formerly, when you did not know God, you were enslaved to those that by nature are not gods.</body></slide><slide><body>9 But now that you have come to know God, or rather to be known by God, how can you turn back again to the weak and worthless elementary principles of the world, whose slaves you want to be once more?</body></slide><slide><body>10 You observe days and months and seasons and years!</body></slide><slide><body>11 I am afraid I may have labored over you in vain.:</body></slide><slide><body>12 Brothers, I entreat you, become as I am, for I also have become as you are. You did me no wrong.</body></slide><slide><body>13 You know it was because of a bodily ailment that I preached the gospel to you at first,</body></slide><slide><body>14 and though my condition was a trial to you, you did not scorn or despise me, but received me as an angel of God, as Christ Jesus.</body></slide><slide><body>15 What then has become of your blessedness? For I testify to you that, if possible, you would have gouged out your eyes and given them to me.</body></slide><slide><body>16 Have I then become your enemy by telling you the truth?</body></slide><slide><body>17 They make much of you, but for no good purpose. They want to shut you out, that you may make much of them.</body></slide><slide><body>18 It is always good to be made much of for a good purpose, and not only when I am present with you,</body></slide><slide><body>19 my little children, for whom I am again in the anguish of childbirth until Christ is formed in you!</body></slide><slide><body>20 I wish I could be present with you now and change my tone, for I am perplexed about you.</body></slide></slides><subtitle>ESV</subtitle></slide_group><slide_group name="Song of Response" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <slide_group type="scripture" name=" John 1:8&#8211;18 |ESV" print="true"><title> John 1:8&#8211;18 |ESV</title><slides><slide><body>John 1:8&#8211;18</body></slide><slide><body>8 He was not the light, but came to bear witness about the light.:</body></slide><slide><body>9 The true light, which gives light to everyone, was coming into the world.</body></slide><slide><body>10 He was in the world, and the world was made through him, yet the world did not know him.</body></slide><slide><body>11 He came to his own, and his own people did not receive him.</body></slide><slide><body>12 But to all who did receive him, who believed in his name, he gave the right to become children of God,</body></slide><slide><body>13 who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.:</body></slide><slide><body>14 And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.</body></slide><slide><body>15 (John bore witness about him, and cried out, &#8220;This was he of whom I said, &#8216;He who comes after me ranks before me, because he was before me.&#8217;&#8221;)</body></slide><slide><body>16 For from his fullness we have all received, grace upon grace.</body></slide><slide><body>17 For the law was given through Moses; grace and truth came through Jesus Christ.</body></slide><slide><body>18 No one has ever seen God; the only God, who is at the Father&#8217;s side, he has made him known.</body></slide></slides><subtitle>ESV</subtitle></slide_group><slide_group name="Song of Response" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Response</title>
   <subtitle />
   <notes />
   <slides>
   <slide>
   <body>Song of Response
-By Faith</body></slide></slides></slide_group>
-  <slide_group name="By Faith" type="song" presentation="V1 V2 C V3 V4 C V5 C C T" path="" /><slide_group name="Prayer for Tithes &amp; Offering" type="custom" print="true" seconds="0" loop="false" transition="0">
+All I Have Is Christ</body></slide></slides></slide_group>
+  <slide_group name="All I Have Is Christ" type="song" presentation="V1 V2 C V3 C C" path="" /><slide_group name="Prayer for Tithes &amp; Offering" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Prayer for Tithes &amp; Offering</title>
   <subtitle />
   <notes />
   <slides>
   <slide>
-  <body>Prayer for Tithes &amp; Offering</body></slide></slides></slide_group>
+  <body />
+</slide></slides></slide_group>
   <slide_group name="Announcements" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Announcements</title>
   <subtitle />
   <notes />
-  <slides><slide><body>https://docs.google.com/forms/d/e/1FAIpQLSfpTMiLfKlBkCvPBjuct2eJjXKYSr-
-</body></slide><slide><body>fPM_5xMJGBpk7DVWabA/viewform 
-</body></slide><slide><body>GCC plans to begin our Phase II reopening on 7/4; more information will be 
-</body></slide><slide><body>forthcoming. There will be a CM Town Hall meeting on Sunday 6/20 at 11:15am, 
-</body></slide><slide><body>and EM Town Hall meeting will be on Sunday 6/27 at 2pm.  
-</body></slide><slide><body>Weekly online EM Fellowship/Sermon Discussion is on Sunday, 2&#8211;3pm over 
-</body></slide><slide><body>Zoom. All are invited.  
-</body></slide><slide><body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30&#8211;9:30pm over 
-</body></slide><slide><body>Zoom online. All are invited. 
-</body></slide><slide><body>We encourage brothers and sisters who worship online to continue with weekly 
-</body></slide><slide><body>tithing/offering by mailing/dropping off checks to GCC, using online payment 
-</body></slide><slide><body>through your bank, or transferring money via PayPal to graceccpca@gmail.com 
-</body></slide><slide><body>(transaction fees apply). 
-</body></slide><slide><body>&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211;&#8211; 
-</body></slide></slides>
+  <slides><slide><body>Welcome to Grace Christian Church! We are glad you can join us.
+</body></slide><slide><body>We will celebrate the Lord&#8217;s Supper on Sunday, 12/12.
+</body></slide><slide><body>We plan to have on-site Baptism and Profession of Faith worship service on 12/19.
+</body></slide><slide><body>There will be a combined CM &amp; EM Christmas Eve Worship Service in the evening of Friday 12/24 at 7:30pm. Please plan to attend.
+</body></slide><slide><body>If you&#8217;d like to be included in our church&#8217;s 2022 directory, or if your contact information (address, phone number, or email) has changed and/or if you want to update your photo, please submit at our church website (http://graceem.gccvapca.org). Under the top menu &#8220;Members,&#8221; click on &#8220;Directory&#8221; to fill out the form. You may also email your information to graceccpca@gmail.com.
+</body></slide><slide><body>Weekly online EM Fellowship/Sermon Discussion is on Sunday, 4&#8211;5pm over Zoom. All are invited.
+</body></slide><slide><body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30&#8211;9:30pm through Zoom. All are invited.
+</body></slide><slide><body>We encourage brothers and sisters who worship online to continue with weekly tithing/offering by mailing/dropping off checks to GCC, using online payment through your bank, or transferring money via PayPal to graceccpca@gmail.com (transaction fees apply).</body></slide></slides>
 </slide_group>
   <slide_group name="Doxology" type="song" presentation="V1" path="" transition="0" />
   <slide_group name="Benediction &amp; Amen" type="custom" print="true" seconds="0" loop="false" transition="0">

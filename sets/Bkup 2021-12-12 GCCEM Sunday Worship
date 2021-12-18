@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<set name="2021-05-09 GCCEM Sunday Worship">
+<set name="Bkup 2021-12-12 GCCEM Sunday Worship">
   <slide_groups>
   <slide_group name="GCC LOGO" type="image" print="true" descriptions_in_subtitle="false" seconds="0" loop="false" transition="0" resize="screen" keep_aspect="false" link="true">
   <title>GCC LOGO</title>
@@ -18,29 +18,31 @@
   <slides>
   <slide>
   <body>Call To Worship
-1 John 4:11–16</body></slide>
+based on Psalm 85:7–13 
+</body></slide>
   <slide>
-  <body>LEADER:  Beloved, if God so loved us, we also ought to  
-love one another.</body></slide>
+  <body>LEADER:  Show us your steadfast love, O Lord, 
+</body></slide>
   <slide>
-  <body>CONGREGATION:  No one has ever seen God; if we love one another,  
-God abides in us and his love is perfected in us.</body></slide>
+  <body>CONGREGATION:  and grant us your salvation.  </body></slide>
   <slide>
-  <body>LEADER:  By this we know that we abide in him and he in us,  
-because he has given us of his Spirit.</body></slide>
+  <body>LEADER:  Let us hear what God the Lord will speak,  
+</body></slide>
   <slide>
-  <body>CONGREGATION:  And we have seen and testify that the Father  
-has sent his Son to be the Savior of the world.</body></slide>
+  <body>CONGREGATION:  for he will speak peace to his people, to his saints;   but let us not turn back to folly.  </body></slide>
   <slide>
-  <body>LEADER:  Whoever confesses that Jesus is the Son of God,  
-God abides in him, and he in God.</body></slide>
+  <body>LEADER:  Surely his salvation is near to those who fear him. 
+</body></slide>
   <slide>
-  <body>CONGREGATION:  So we have come to know and to believe the love that  God has for us.</body></slide>
+  <body>CONGREGATION:  His faithfulness springs up from the ground, and  righteousness looks down from the sky.  </body></slide>
   <slide>
-  <body>God is love, and whoever abides in love abides in God,  
-and God abides in him.</body></slide>
+  <body>LEADER:  Yes, the Lord will give what is good. 
+</body></slide>
   <slide>
-  <body>LEADER:  Therefore, beloved, let us worship our God who is so rich in love.</body></slide></slides></slide_group>
+  <body>CONGREGATION:  Righteousness goes before him   and prepares the way for his steps.  </body></slide>
+  <slide>
+  <body>LEADER:  Therefore, let us worship him with jubilance and gladness of  heart. 
+</body></slide></slides></slide_group>
   <slide_group name="Song of Approach" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Approach</title>
   <subtitle/>
@@ -48,8 +50,8 @@ and God abides in him.</body></slide>
   <slides>
   <slide>
   <body>Song of Approach
-All Hail The Power of Jesus Name</body></slide></slides></slide_group>
-  <slide_group name="All Hail The Power Of Jesus Name" type="song" presentation="V1 V3 V5 V6" path="" transition="0"/>
+Come Thou Long Expected Jesus</body></slide></slides></slide_group>
+  <slide_group name="Come Thou Long Expected Jesus" type="song" presentation="V1 V2 V3 V4" path=""/>
   <slide_group name="Invocation Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Invocation Prayer</title>
   <subtitle/>
@@ -57,18 +59,15 @@ All Hail The Power of Jesus Name</body></slide></slides></slide_group>
   <slides>
   <slide>
   <body>Invocation</body></slide></slides></slide_group>
-  <slide_group name="Songs of Praise" type="custom" print="true" seconds="0" loop="false" transition="0">
-  <title>Songs of Praise</title>
+  <slide_group name="Song of Praise" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Song of Praise</title>
   <subtitle/>
   <notes/>
   <slides>
   <slide>
-  <body>Songs of Praise</body></slide>
-  <slide>
-  <body>Is He Worthy
-Jesus Paid It All</body></slide></slides></slide_group>
-  <slide_group name="Is He Worthy" type="song" presentation="V1 V2 C1 V3 C2 E" path=""/>
-  <slide_group name="Jesus Paid It All" type="song" presentation="V1 C1 V2 C1 V3 C2 B B2 C1" path=""/>
+  <body>Song of Praise
+How Many Kings</body></slide></slides></slide_group>
+  <slide_group name="How Many Kings" type="song" presentation="V1 C V2 C B C E" path=""/>
   <slide_group name="Confession of Sin" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Confession of Sin</title>
   <subtitle/>
@@ -77,77 +76,60 @@ Jesus Paid It All</body></slide></slides></slide_group>
   <slide>
   <body>Confession of Sin</body></slide>
   <slide>
-  <body>Gracious Father, we confess our sins to You because You are faithful and just, and You promise to forgive and cleanse us.</body></slide>
+  <body>Merciful God, in Your gracious presence we confess our sin. Although Christ is among us as our peace, we are a people divided against ourselves as we cling to the values of a broken world.</body></slide>
   <slide>
-  <body>We lean on Your faithfulness today as we examine our own unfaithfulness.</body></slide>
+  <body>The profit and pleasures we pursue lay waste the land and pollute the seas. The fears and jealousies that we harbor set neighbor against neighbor and nation against nation.</body></slide>
   <slide>
-  <body>When we have been hurt by others, we have taken matters into our own hands rather than trusting in You. Forgive us.</body></slide>
+  <body>We abuse Your good gifts of imagination and freedom, of intellect and reason, and turn them into bonds of oppression.</body></slide>
   <slide>
-  <body>When we have witnessed injustice against others, we have failed to act, as we should. Forgive us.</body></slide>
-  <slide>
-  <body>By the power of Your Spirit, help us to walk in humility. Enable us to wait patiently but not passively for Your justice.</body></slide>
-  <slide>
-  <body>Stir in our hearts a holy passion for Your righteousness, and give us the strength to be Your voice of truth and grace to the world.</body></slide>
-  <slide>
-  <body>In the name of Jesus, the only Righteous One, we pray. Amen.</body></slide></slides></slide_group>
+  <body>Lord, have mercy upon us; heal and forgive us. Set us free to serve You in the world as agents of Your reconciling love in Jesus Christ. Amen.</body></slide></slides></slide_group>
   <slide_group name="Assurance of Pardon" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Assurance of Pardon</title>
   <subtitle/>
   <notes/>
   <slides>
   <slide>
-  <body>Assurance of Pardon
-Hebrews 2:14-15</body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Hebrews 2:14-15|ESV" print="true" seconds="0" loop="false" transition="0">
-  <title>Hebrews 2:14-15</title>
-  <subtitle>ESV</subtitle>
-  <notes/>
-  <slides>
+  <body>Assurance of Pardon</body></slide>
   <slide>
-  <body>Hebrews 2:14-15</body></slide>
+  <body>Titus 3:4–7</body></slide>
   <slide>
-  <body>14 Since therefore the children share in flesh and blood, he himself likewise partook of the same things,</body></slide>
+  <body>4But when the goodness and loving kindness of God our Savior appeared,</body></slide>
   <slide>
-  <body>that through death he might destroy the one who has the power of death, that is, the devil,</body></slide>
+  <body>5he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,</body></slide>
   <slide>
-  <body>15 and deliver all those who through fear of death were subject to lifelong slavery.</body></slide></slides></slide_group>
-  <slide_group name="The Gloria Patri" type="custom" print="true" seconds="0" loop="false" transition="0">
-  <title>The Gloria Patri</title>
+  <body>6whom he poured out on us richly through Jesus Christ our Savior, 7so that being justified by his grace we might become heirs according to the hope of eternal life.</body></slide></slides></slide_group>
+  <slide_group name="Song of Assurance" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Song of Assurance</title>
   <subtitle/>
   <notes/>
   <slides>
   <slide>
-  <body>The Gloria Patri</body></slide>
-  <slide>
-  <body>Glory be to the Father, and to the Son, and to the Holy Ghost;</body></slide>
-  <slide>
-  <body>As it was in the beginning, is now, and ever shall be,
-World without end. Amen, amen.</body></slide></slides></slide_group>
+  <body>Song of Assurance
+Holy Spirit - Living Breath Of God</body></slide></slides></slide_group>
+  <slide_group name="Holy Spirit - Living Breath Of God" type="song" presentation="V1 V2 V3 E" path=""/>
   <slide_group name="Affirmation of Faith" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Affirmation of Faith</title>
   <subtitle/>
   <notes/>
   <slides>
   <slide>
-  <body/>
-</slide>
+  <body>Affirmation of Faith WESTMINSTER LARGER CATECHISM, Q&amp;A 37–39</body></slide>
   <slide>
-  <body>Affirmation of Faith
-APOSTLES’ CREED</body></slide>
+  <body>Q.37. (LEADER):  How did Christ, being the Son of God, become man?</body></slide>
   <slide>
-  <body>CONGREGATION:  I believe in God, the Father almighty, creator of heaven and earth.</body></slide>
+  <body>A. (ALL TOGETHER):  Christ the Son of God became man, by taking to himself a true  body, and a reasonable soul, being conceived by the power of the Holy Ghost in  the womb of the virgin Mary, of her substance, and born of her, yet without sin.</body></slide>
   <slide>
-  <body>I believe in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit and born of the virgin Mary.</body></slide>
+  <body>Q.38. (LEADER):  Why was it requisite that the mediator should be God?</body></slide>
   <slide>
-  <body>He suffered under Pontius Pilate, was crucified, died, and was buried; he descended to hell.</body></slide>
+  <body>A. (ALL TOGETHER):  It was requisite that the mediator should be God, that he might  sustain and keep the human nature from sinking under the infinite wrath of  God, and the power of death;</body></slide>
   <slide>
-  <body>The third day he rose again from the dead. He ascended to heaven and is seated at the right hand of God the Father almighty.</body></slide>
+  <body>give worth and efficacy to his sufferings,  obedience, and intercession; and to satisfy God's justice, procure his favor,  purchase a peculiar people, give his Spirit to them, conquer all their enemies, and  bring them to everlasting salvation.</body></slide>
   <slide>
-  <body>From there he will come to judge the living and the dead.</body></slide>
+  <body>Q.39. (LEADER):  Why was it requisite that the mediator should be man?</body></slide>
   <slide>
-  <body>I believe in the Holy Spirit, the holy catholic** church, the communion of saints,</body></slide>
+  <body>A. (ALL TOGETHER):  It was requisite that the mediator should be man, that he might  advance our nature, perform obedience to the law, suffer and make intercession  for us in our nature, have a fellow-feeling of our infirmities;</body></slide>
   <slide>
-  <body>the forgiveness of sins, the resurrection of the body, and the life everlasting. Amen.</body></slide></slides></slide_group>
+  <body>that we might  receive the adoption of sons, and have comfort and access with boldness unto  the throne of grace.</body></slide></slides></slide_group>
   <slide_group name="Scripture Reading" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Scripture Reading</title>
   <subtitle/>
@@ -155,48 +137,26 @@ APOSTLES’ CREED</body></slide>
   <slides>
   <slide>
   <body>Scripture Reading
-Galatians 3:10–26  
+Isaiah 9:2–7  
 
 </body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Galatians 3:10–26|ESV" print="true">
-  <title>Galatians 3:10–26</title>
+  <slide_group type="scripture" name="Isaiah 9:2–7|ESV" print="true">
+  <title>Isaiah 9:2–7|ESV</title>
   <slides>
   <slide>
-  <body>Galatians 3:10–26</body></slide>
+  <body>Isaiah 9:2–7</body></slide>
   <slide>
-  <body>10 For all who rely on works of the law are under a curse; for it is written, “Cursed be everyone who does not abide by all things written in the Book of the Law, and do them.”</body></slide>
+  <body>2 The people who walked in darkness have seen a great light; those who dwelt in a land of deep darkness, on them has light shone.</body></slide>
   <slide>
-  <body>11 Now it is evident that no one is justified before God by the law, for “The righteous shall live by faith.”</body></slide>
+  <body>3 You have multiplied the nation; you have increased its joy; they rejoice before you as with joy at the harvest, as they are glad when they divide the spoil.</body></slide>
   <slide>
-  <body>12 But the law is not of faith, rather “The one who does them shall live by them.”</body></slide>
+  <body>4 For the yoke of his burden, and the staff for his shoulder, the rod of his oppressor, you have broken as on the day of Midian.</body></slide>
   <slide>
-  <body>13 Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, “Cursed is everyone who is hanged on a tree”—14 so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith.:</body></slide>
+  <body>5 For every boot of the tramping warrior in battle tumult and every garment rolled in blood will be burned as fuel for the fire.</body></slide>
   <slide>
-  <body>15 To give a human example, brothers: even with a man-made covenant, no one annuls it or adds to it once it has been ratified.</body></slide>
+  <body>6 For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.</body></slide>
   <slide>
-  <body>16 Now the promises were made to Abraham and to his offspring. It does not say, “And to offsprings,” referring to many, but referring to one, “And to your offspring,” who is Christ.</body></slide>
-  <slide>
-  <body>17 This is what I mean: the law, which came</body></slide>
-  <slide>
-  <body>430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void.</body></slide>
-  <slide>
-  <body>18 For if the inheritance comes by the law, it no longer comes by promise; but God gave it to Abraham by a promise.:</body></slide>
-  <slide>
-  <body>19 Why then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made, and it was put in place through angels by an intermediary.</body></slide>
-  <slide>
-  <body>20 Now an intermediary implies more than one, but God is one.:</body></slide>
-  <slide>
-  <body>21 Is the law then contrary to the promises of God? Certainly not! For if a law had been given that could give life, then righteousness would indeed be by the law.</body></slide>
-  <slide>
-  <body>22 But the Scripture imprisoned everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe.:</body></slide>
-  <slide>
-  <body>23 Now before faith came, we were held captive under the law, imprisoned until the coming faith would be revealed.</body></slide>
-  <slide>
-  <body>24 So then, the law was our guardian until Christ came, in order that we might be justified by faith.</body></slide>
-  <slide>
-  <body>25 But now that faith has come, we are no longer under a guardian,</body></slide>
-  <slide>
-  <body>26 for in Christ Jesus you are all sons of God, through faith.</body></slide>
+  <body>7 Of the increase of his government and of peace there will be no end, on the throne of David and over his kingdom, to establish it and to uphold it with justice and with righteousness from this time forth and forevermore. The zeal of the LORD of hosts will do this.</body></slide>
   <slide>
   <body>LEADER: This is the Word of the Lord. 
  CONGREGATION: Thanks be to God.</body></slide></slides>
@@ -1541,40 +1501,113 @@ N771RFdtCuAOCevFSMM855Fc1jtVQ//Z</background></style>
   <presentation/>
   <slides>
   <slide>
-  <body>Sermon    “How Good We Have It” 
-Galatians 3:15–26 
-</body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Galatians 3:15–26|ESV" print="true">
-  <title>Galatians 3:15–26</title>
+  <body>The Incarnation: The True God Who Loves Sinners
+ John 3:9–19 </body></slide></slides></slide_group>
+  <slide_group type="scripture" name=" John 3:9–19 |ESV" print="true">
+  <title> John 3:9–19 |ESV</title>
   <slides>
   <slide>
-  <body>Galatians 3:15–26</body></slide>
+  <body>John 3:9–19</body></slide>
   <slide>
-  <body>15 To give a human example, brothers: even with a man-made covenant, no one annuls it or adds to it once it has been ratified.</body></slide>
+  <body>9 Nicodemus said to him, “How can these things be?”</body></slide>
   <slide>
-  <body>16 Now the promises were made to Abraham and to his offspring. It does not say, “And to offsprings,” referring to many, but referring to one, “And to your offspring,” who is Christ.</body></slide>
+  <body>10 Jesus answered him, “Are you the teacher of Israel and yet you do not understand these things?</body></slide>
   <slide>
-  <body>17 This is what I mean: the law, which came</body></slide>
+  <body>11 Truly, truly, I say to you, we speak of what we know, and bear witness to what we have seen, but you do not receive our testimony.</body></slide>
   <slide>
-  <body>430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void.</body></slide>
+  <body>12 If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?</body></slide>
   <slide>
-  <body>18 For if the inheritance comes by the law, it no longer comes by promise; but God gave it to Abraham by a promise.:</body></slide>
+  <body>13 No one has ascended into heaven except he who descended from heaven, the Son of Man.</body></slide>
   <slide>
-  <body>19 Why then the law? It was added because of transgressions, until the offspring should come to whom the promise had been made, and it was put in place through angels by an intermediary.</body></slide>
+  <body>14 And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,</body></slide>
   <slide>
-  <body>20 Now an intermediary implies more than one, but God is one.:</body></slide>
+  <body>15 that whoever believes in him may have eternal life.:</body></slide>
   <slide>
-  <body>21 Is the law then contrary to the promises of God? Certainly not! For if a law had been given that could give life, then righteousness would indeed be by the law.</body></slide>
+  <body>16 “For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.</body></slide>
   <slide>
-  <body>22 But the Scripture imprisoned everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe.:</body></slide>
+  <body>17 For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.</body></slide>
   <slide>
-  <body>23 Now before faith came, we were held captive under the law, imprisoned until the coming faith would be revealed.</body></slide>
+  <body>18 Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God.</body></slide>
   <slide>
-  <body>24 So then, the law was our guardian until Christ came, in order that we might be justified by faith.</body></slide>
+  <body>19 And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil.</body></slide></slides>
+  <subtitle>ESV</subtitle>
+  <notes/>
+</slide_group>
+  <slide_group type="scripture" name="John 3:1-36|ESV" print="true">
+  <title>John 3:1-36</title>
+  <slides>
   <slide>
-  <body>25 But now that faith has come, we are no longer under a guardian,</body></slide>
+  <body>1 Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.</body></slide>
   <slide>
-  <body>26 for in Christ Jesus you are all sons of God, through faith.</body></slide></slides>
+  <body>2 This man came to Jesus by night and said to him, "Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him."</body></slide>
+  <slide>
+  <body>3 Jesus answered him, "Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God."</body></slide>
+  <slide>
+  <body>4 Nicodemus said to him, "How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?"</body></slide>
+  <slide>
+  <body>5 Jesus answered, "Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God.</body></slide>
+  <slide>
+  <body>6 That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.</body></slide>
+  <slide>
+  <body>7 Do not marvel that I said to you, 'You must be born again.'</body></slide>
+  <slide>
+  <body>8 The wind blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit."</body></slide>
+  <slide>
+  <body>9 Nicodemus said to him, "How can these things be?"</body></slide>
+  <slide>
+  <body>10 Jesus answered him, "Are you the teacher of Israel and yet you do not understand these things?</body></slide>
+  <slide>
+  <body>11 Truly, truly, I say to you, we speak of what we know, and bear witness to what we have seen, but you do not receive our testimony.</body></slide>
+  <slide>
+  <body>12 If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things?</body></slide>
+  <slide>
+  <body>13 No one has ascended into heaven except he who descended from heaven, the Son of Man.</body></slide>
+  <slide>
+  <body>14 And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,</body></slide>
+  <slide>
+  <body>15 that whoever believes in him may have eternal life.</body></slide>
+  <slide>
+  <body>16 "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life.</body></slide>
+  <slide>
+  <body>17 For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him.</body></slide>
+  <slide>
+  <body>18 Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God.</body></slide>
+  <slide>
+  <body>19 And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their deeds were evil.</body></slide>
+  <slide>
+  <body>20 For everyone who does wicked things hates the light and does not come to the light, lest his deeds should be exposed.</body></slide>
+  <slide>
+  <body>21 But whoever does what is true comes to the light, so that it may be clearly seen that his deeds have been carried out in God."</body></slide>
+  <slide>
+  <body>22 After this Jesus and his disciples went into the Judean countryside, and he remained there with them and was baptizing.</body></slide>
+  <slide>
+  <body>23 John also was baptizing at Aenon near Salim, because water was plentiful there, and people were coming and being baptized</body></slide>
+  <slide>
+  <body>24 (for John had not yet been put in prison).</body></slide>
+  <slide>
+  <body>25 Now a discussion arose between some of John's disciples and a Jew over purification.</body></slide>
+  <slide>
+  <body>26 And they came to John and said to him, "Rabbi, he who was with you across the Jordan, to whom you bore witness--look, he is baptizing, and all are going to him."</body></slide>
+  <slide>
+  <body>27 John answered, "A person cannot receive even one thing unless it is given him from heaven.</body></slide>
+  <slide>
+  <body>28 You yourselves bear me witness, that I said, 'I am not the Christ, but I have been sent before him.'</body></slide>
+  <slide>
+  <body>29 The one who has the bride is the bridegroom. The friend of the bridegroom, who stands and hears him, rejoices greatly at the bridegroom's voice. Therefore this joy of mine is now complete.</body></slide>
+  <slide>
+  <body>30 He must increase, but I must decrease."</body></slide>
+  <slide>
+  <body>31 He who comes from above is above all. He who is of the earth belongs to the earth and speaks in an earthly way. He who comes from heaven is above all.</body></slide>
+  <slide>
+  <body>32 He bears witness to what he has seen and heard, yet no one receives his testimony.</body></slide>
+  <slide>
+  <body>33 Whoever receives his testimony sets his seal to this, that God is true.</body></slide>
+  <slide>
+  <body>34 For he whom God has sent utters the words of God, for he gives the Spirit without measure.</body></slide>
+  <slide>
+  <body>35 The Father loves the Son and has given all things into his hand.</body></slide>
+  <slide>
+  <body>36 Whoever believes in the Son has eternal life; whoever does not obey the Son shall not see life, but the wrath of God remains on him.</body></slide></slides>
   <subtitle>ESV</subtitle>
   <notes/>
 </slide_group>
@@ -8082,32 +8115,35 @@ Vfy3P6U2a2j1BOVw2KIuzOyjiHB2kf/Z</background></style></slide_group>
   <slides>
   <slide>
   <body>Song of Response
-Standing On The Promises</body></slide></slides></slide_group>
-  <slide_group name="Standing On The Promises" type="song" presentation="V1 V2 C V4 C V5 C" path=""/>
+Sing We The Song Of Emmanuel</body></slide></slides></slide_group>
+  <slide_group name="Sing We The Song Of Emmanuel" type="song" presentation="V1 C1 V2 C2 V3 C3" path=""/>
   <slide_group name="Prayer for Tithes &amp; Offering" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Prayer for Tithes &amp; Offering</title>
   <subtitle/>
   <notes/>
   <slides>
   <slide>
-  <body>Prayer for Tithes &amp; Offering</body></slide></slides></slide_group>
+  <body/>
+</slide></slides></slide_group>
   <slide_group name="Announcements" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Announcements</title>
   <subtitle/>
   <notes/>
   <slides>
   <slide>
-  <body>Announcements</body></slide>
-  <slide>
   <body>Welcome to Grace Christian Church! We are glad you can join us.</body></slide>
   <slide>
-  <body>There will be a GCC Youth Spring Hiking Trip on 5/29 from 1–4pm;</body></slide>
+  <body>There will be a combined CM &amp; EM Christmas Eve Worship Service (both on-site &amp; online) on Friday, 12/24 at 7:30pm. Please plan to attend.</body></slide>
   <slide>
-  <body>Weekly online EM Fellowship/Sermon Discussion is on Sunday, 2–3pm over Zoom. All are invited.</body></slide>
+  <body>The 2022 GCC budget has been posted on the bulletin board as well as in the “Members” section at our church website (http://graceem.gccvapca.org/member-login/). If you have any questions, please contact Deacon Lixin Wang or our Elders.</body></slide>
   <slide>
-  <body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30–9:30pm over Zoom online. All are invited.</body></slide>
+  <body>If you’d like to be included in our church’s 2022 directory, or if your contact information (address, phone number, or email) has changed and/or if you want to update your photo, please submit at our church website (http://graceem.gccvapca.org).</body></slide>
   <slide>
-  <body>We encourage brothers and sisters who worship online to continue with weekly tithing/offering.</body></slide></slides></slide_group>
+  <body>Weekly online EM Fellowship/Sermon Discussion is on Sunday, 4–5pm over Zoom. All are invited.</body></slide>
+  <slide>
+  <body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30–9:30pm through Zoom. All are invited.</body></slide>
+  <slide>
+  <body>We encourage brothers and sisters who worship online to continue with weekly tithing/offering by mailing/dropping off checks to GCC, using online payment through your bank, or transferring money via PayPal to graceccpca@gmail.com (transaction fees apply).</body></slide></slides></slide_group>
   <slide_group name="Doxology" type="song" presentation="V1" path="" transition="0"/>
   <slide_group name="Benediction &amp; Amen" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Benediction &amp; Amen</title>

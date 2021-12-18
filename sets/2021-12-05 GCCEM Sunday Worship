@@ -1,133 +1,208 @@
-<set name="gcc_dev GCCEM Sunday Worship">
+<?xml version="1.0" encoding="UTF-8"?>
+<set name="2021-12-05 GCCEM Sunday Worship">
   <slide_groups>
   <slide_group name="GCC LOGO" type="image" print="true" descriptions_in_subtitle="false" seconds="0" loop="false" transition="0" resize="screen" keep_aspect="false" link="true">
   <title>GCC LOGO</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <filename>GCCLogo.jpg</filename>
   <description>C:\Dropbox\OpenSongV2\OpenSong Data\Backgrounds\GCCLogo.jpg</description>
-  <image />
+  <image/>
 </slide></slides></slide_group>
   <slide_group name="Call to Worship" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Call to Worship</title>
-  <subtitle />
-  <notes />
-  <slides><slide><body>Call To Worship
-Psalm 107:1&#8211;3 
-</body></slide><slide><body>LEADER:  Oh give thanks to the LORD, for he is good,  
-</body></slide><slide><body>            for his steadfast love endures forever! 
-</body></slide><slide><body>        Let the redeemed of the LORD say so,  
-</body></slide><slide><body>            whom he has redeemed from trouble  
-</body></slide><slide><body>        and gathered in from the lands,  
-</body></slide><slide><body>            from the east and from the west, 
-</body></slide><slide><body>                  from the north and from the south. 
-</body></slide><slide><body>        Let us worship Him with a joyful heart! 
-</body></slide></slides>
-</slide_group>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Call To Worship
+based on Psalm 27; John 4:23 
+</body></slide>
+  <slide>
+  <body>LEADER:  Let us worship God, our light and our salvation.  
+</body></slide>
+  <slide>
+  <body>CONGREGATION:  The Lord is the stronghold of our lives.  </body></slide>
+  <slide>
+  <body>LEADER:  We desire to live in God’s house  
+and to seek God in his holy temple. 
+</body></slide>
+  <slide>
+  <body>CONGREGATION:  We have come with shouts of joy,   to sing and to make music to the Lord.  </body></slide>
+  <slide>
+  <body>LEADER:  Let us worship God in spirit and in truth. 
+</body></slide>
+  <slide>
+  <body>ALL TOGETHER:  Teach us your ways and make straight our paths  
+in this hour of worship and always. 
+</body></slide></slides></slide_group>
   <slide_group name="Song of Approach" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Approach</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <body>Song of Approach
-Jesus Shall Reign (To Our King Be Highest Praise)</body></slide></slides></slide_group>
-  <slide_group name="Jesus Shall Reign (To Our King Be Highest Praise)" type="song" presentation="V1 V2 C V3 C V4 C C" path="" /><slide_group name="Invocation Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
+Rejoice The Lord Is King</body></slide></slides></slide_group>
+  <slide_group name="Rejoice The Lord Is King" type="song" presentation="V1 C V2 C V3 C V4 C V5 C C" path=""/>
+  <slide_group name="Invocation Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Invocation Prayer</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <body>Invocation</body></slide></slides></slide_group>
   <slide_group name="Song of Praise" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Praise</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <body>Song of Praise
-Still</body></slide></slides></slide_group>
-  <slide_group name="Still" type="song" presentation="V1 C V2 C C E" path="" /><slide_group name="Confession of Sin" type="custom" print="true" seconds="0" loop="false" transition="0">
+He Shall Reign Forevermore</body></slide></slides></slide_group>
+  <slide_group name="He Shall Reign Forevermore" type="song" presentation="V1 C1 V2 C1 B C2 T" path=""/>
+  <slide_group name="Confession of Sin" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Confession of Sin</title>
-  <subtitle />
-  <notes />
-  <slides><slide><body>Confession of Sin</body></slide><slide><body>Sample Confession: Almighty God, Father of our Lord Jesus Christ,         Maker of all things, Judge of all men; we acknowledge and bewail our manifold sins and wickedness,             which we, from time to time, most grievously have committed, by thought, word, and deed,                 against Your Divine Majesty, provoking most justly Your wrath and indignation against us.     
-</body></slide></slides>
-</slide_group>
-  <slide_group name="Assurance of Pardon" type="custom" print="true" seconds="0" loop="false" transition="0">
-  <title>Assurance of Pardon</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
-  <body>Assurance of Pardon
-Psalm 103:11&#8211;13</body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Psalm 103:11&#8211;13|ESV" print="true"><title>Psalm 103:11&#8211;13|ESV</title><slides><slide><body>Psalm 103:11&#8211;13</body></slide><slide><body>11 For as high as the heavens are above the earth, so great is his steadfast love toward those who fear him;</body></slide><slide><body>12 as far as the east is from the west, so far does he remove our transgressions from us.</body></slide><slide><body>13 As a father shows compassion to his children, so the LORD shows compassion to those who fear him.</body></slide></slides><subtitle>ESV</subtitle></slide_group><slide_group name="Song of Assurance" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <body>Confession of Sin</body></slide>
+  <slide>
+  <body>Gracious Lord, You are our Shepherd, yet we still want. You promise us rest, but we refuse to be still. You are our Righteousness, but we look to our own works.</body></slide>
+  <slide>
+  <body>You are with us, but yet we still fear and do not trust Your promises of protection and shrink from our enemies.</body></slide>
+  <slide>
+  <body>Lord, forgive us. Cause us to embrace Your goodness and mercy that we may truly believe that You will be with us all the days of our life. We pray this in the name of Christ. Amen.</body></slide></slides></slide_group>
+  <slide_group name="Assurance of Pardon" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <title>Assurance of Pardon</title>
+  <subtitle/>
+  <notes/>
+  <slides>
+  <slide>
+  <body>Assurance of Pardon</body></slide>
+  <slide>
+  <body>Colossians 2:13–15</body></slide>
+  <slide>
+  <body>13And you, who were dead in your trespasses and the uncircumcision of your flesh, God made alive together with him, having forgiven us all our trespasses,</body></slide>
+  <slide>
+  <body>14by canceling the record of debt that stood against us with its legal demands. This he set aside, nailing it to the cross.</body></slide>
+  <slide>
+  <body>15He disarmed the rulers and authorities and put them to open shame, by triumphing over them in him.</body></slide></slides></slide_group>
+  <slide_group name="Song of Assurance" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Assurance</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <body>Song of Assurance
-Come Behold The Wondrous Mystery</body>
-</slide></slides></slide_group>
-  <slide_group name="Come Behold The Wondrous Mystery" type="song" presentation="V1 V2 V3 V4 E" path="" /><slide_group name="Affirmation of Faith" type="custom" print="true" seconds="0" loop="false" transition="0">
+Is He Worthy</body></slide></slides></slide_group>
+  <slide_group name="Is He Worthy" type="song" presentation="V1 V2 C1 V3 C2 E" path=""/>
+  <slide_group name="Affirmation of Faith" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Affirmation of Faith</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
-  <body />
-</slide><slide><body>Affirmation of Faith NICENE CREED  
-</body></slide><slide><body>CONGREGATION:  We believe in one God, the Father almighty, maker of heaven and  earth, of all things visible and invisible. 
-</body></slide><slide><body>         And in one Lord Jesus Christ, the only Son of God, begotten from the  Father before all ages, God from God, Light from Light, true God from true  God, begotten, not made; of the same essence as the Father. 
-</body></slide><slide><body>Through him all  things were made. 
-</body></slide><slide><body>For us and for our salvation he came down from heaven; he  became incarnate by the Holy Spirit and the virgin Mary, and was made human. 
-</body></slide><slide><body> He was crucified for us under Pontius Pilate; he suffered and was buried. 
-</body></slide><slide><body>The  third day he rose again, according to the Scriptures. 
-</body></slide><slide><body>He ascended to heaven and  is seated at the right hand of the Father. 
-</body></slide><slide><body>He will come again with glory to judge  the living and the dead. 
-</body></slide><slide><body>His kingdom will never end. 
-</body></slide><slide><body>         And we believe in the Holy Spirit, the Lord, the giver of life. 
-</body></slide><slide><body>He proceeds  from the Father and the Son, and with the Father and the Son is worshiped and  glorified. 
-</body></slide><slide><body>He spoke through the prophets. 
-</body></slide><slide><body>We believe in one holy catholic** and  apostolic church. 
-</body></slide><slide><body>We affirm one baptism for the forgiveness of sins. 
-</body></slide><slide><body>We look  forward to the resurrection of the dead, and to life in the world to come. 
-</body></slide><slide><body>Amen. 
-</body></slide><slide><body> **THAT IS, THE &#8220;UNIVERSAL&#8221; CHURCH OF ALL TRUE BELIEVERS IN ALL TIMES AND PLACES. 
-</body></slide></slides></slide_group>
+  <body>NICENE CREED</body></slide>
+  <slide>
+  <body>CONGREGATION:  We believe in one God, the Father almighty, maker of heaven and 
+earth, of all things visible and invisible.</body></slide>
+  <slide>
+  <body>And in one Lord Jesus Christ, the only Son of God, begotten from the 
+Father before all ages, God from God, Light from Light, true God from true 
+God, begotten, not made; of the same essence as the Father.</body></slide>
+  <slide>
+  <body>Through him all things were made. For us and for our salvation he came down from heaven; he 
+became incarnate by the Holy Spirit and the virgin Mary, and was made human.</body></slide>
+  <slide>
+  <body>He was crucified for us under Pontius Pilate; he suffered and was buried. The third day he rose again, according to the Scriptures.
+He ascended to heaven and is seated at the right hand of the Father.</body></slide>
+  <slide>
+  <body>He will come again with glory to judge the living and the dead. His kingdom will never end.</body></slide>
+  <slide>
+  <body>And we believe in the Holy Spirit, the Lord, the giver of life.</body></slide>
+  <slide>
+  <body>He proceeds from the Father and the Son, and with the Father and the Son is worshiped and 
+glorified.</body></slide>
+  <slide>
+  <body>He spoke through the prophets. We believe in one holy catholic** and apostolic church. 
+We affirm one baptism for the forgiveness of sins.</body></slide>
+  <slide>
+  <body>We look forward to the resurrection of the dead, and to life in the world to come. Amen.</body></slide></slides></slide_group>
   <slide_group name="Scripture Reading" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Scripture Reading</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <body>Scripture Reading
-Numbers 20:1&#8211;13 
+Isaiah 7:1–17 
 
 </body></slide></slides></slide_group>
-  <slide_group type="scripture" name="Numbers 20:1&#8211;13|ESV" print="true"><title>Numbers 20:1&#8211;13|ESV</title><slides><slide><body>Numbers 20:1&#8211;13</body></slide><slide><body>1 And the people of Israel, the whole congregation, came into the wilderness of Zin in the first month, and the people stayed in Kadesh. And Miriam died there and was buried there.:</body></slide><slide><body>2 Now there was no water for the congregation. And they assembled themselves together against Moses and against Aaron.</body></slide><slide><body>3 And the people quarreled with Moses and said, &#8220;Would that we had perished when our brothers perished before the LORD!</body></slide><slide><body>4 Why have you brought the assembly of the LORD into this wilderness, that we should die here, both we and our cattle?</body></slide><slide><body>5 And why have you made us come up out of Egypt to bring us to this evil place? It is no place for grain or figs or vines or pomegranates, and there is no water to drink.&#8221;</body></slide><slide><body>6 Then Moses and Aaron went from the presence of the assembly to the entrance of the tent of meeting and fell on their faces. And the glory of the LORD appeared to them,</body></slide><slide><body>7 and the LORD spoke to Moses, saying,</body></slide><slide><body>8 &#8220;Take the staff, and assemble the congregation, you and Aaron your brother, and tell the rock before their eyes to yield its water. So you shall bring water out of the rock for them and give drink to the congregation and their cattle.&#8221;</body></slide><slide><body>9 And Moses took the staff from before the LORD, as he commanded him.:</body></slide><slide><body>10 Then Moses and Aaron gathered the assembly together before the rock, and he said to them, &#8220;Hear now, you rebels: shall we bring water for you out of this rock?&#8221;</body></slide><slide><body>11 And Moses lifted up his hand and struck the rock with his staff twice, and water came out abundantly, and the congregation drank, and their livestock.</body></slide><slide><body>12 And the LORD said to Moses and Aaron, &#8220;Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them.&#8221;</body></slide><slide><body>13 These are the waters of Meribah, where the people of Israel quarreled with the LORD, and through them he showed himself holy.</body></slide><slide><body>LEADER: This is the Word of the Lord. 
- CONGREGATION: Thanks be to God.</body></slide></slides><subtitle>ESV</subtitle></slide_group><slide_group name="Pastoral Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <slide_group type="scripture" name="Isaiah 7:1–17|ESV" print="true">
+  <title>Isaiah 7:1–17|ESV</title>
+  <slides>
+  <slide>
+  <body>Isaiah 7:1–17</body></slide>
+  <slide>
+  <body>1 In the days of Ahaz the son of Jotham, son of Uzziah, king of Judah, Rezin the king of Syria and Pekah the son of Remaliah the king of Israel came up to Jerusalem to wage war against it, but could not yet mount an attack against it.</body></slide>
+  <slide>
+  <body>2 When the house of David was told, “Syria is in league with Ephraim,” the heart of Ahaz and the heart of his people shook as the trees of the forest shake before the wind.:</body></slide>
+  <slide>
+  <body>3 And the LORD said to Isaiah, “Go out to meet Ahaz, you and Shear-jashub your son, at the end of the conduit of the upper pool on the highway to the Washer’s Field.</body></slide>
+  <slide>
+  <body>4 And say to him, ‘Be careful, be quiet, do not fear, and do not let your heart be faint because of these two smoldering stumps of firebrands, at the fierce anger of Rezin and Syria and the son of Remaliah.</body></slide>
+  <slide>
+  <body>5 Because Syria, with Ephraim and the son of Remaliah, has devised evil against you, saying,</body></slide>
+  <slide>
+  <body>6 “Let us go up against Judah and terrify it, and let us conquer it for ourselves, and set up the son of Tabeel as king in the midst of it,”</body></slide>
+  <slide>
+  <body>7 thus says the Lord GOD:: “‘It shall not stand, and it shall not come to pass.</body></slide>
+  <slide>
+  <body>8 For the head of Syria is Damascus, and the head of Damascus is Rezin. And within sixty-five years Ephraim will be shattered from being a people.</body></slide>
+  <slide>
+  <body>9 And the head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. If you are not firm in faith, you will not be firm at all.’”</body></slide>
+  <slide>
+  <body>10 Again the LORD spoke to Ahaz:</body></slide>
+  <slide>
+  <body>11 “Ask a sign of the LORD your God; let it be deep as Sheol or high as heaven.”</body></slide>
+  <slide>
+  <body>12 But Ahaz said, “I will not ask, and I will not put the LORD to the test.”</body></slide>
+  <slide>
+  <body>13 And he said, “Hear then, O house of David! Is it too little for you to weary men, that you weary my God also?</body></slide>
+  <slide>
+  <body>14 Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.</body></slide>
+  <slide>
+  <body>15 He shall eat curds and honey when he knows how to refuse the evil and choose the good.</body></slide>
+  <slide>
+  <body>16 For before the boy knows how to refuse the evil and choose the good, the land whose two kings you dread will be deserted.</body></slide>
+  <slide>
+  <body>17 The LORD will bring upon you and upon your people and upon your father’s house such days as have not come since the day that Ephraim departed from Judah — the king of Assyria!”</body></slide>
+  <slide>
+  <body>LEADER: This is the Word of the Lord. 
+ CONGREGATION: Thanks be to God.</body></slide></slides>
+  <subtitle>ESV</subtitle></slide_group>
+  <slide_group name="Pastoral Prayer" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Pastoral Prayer</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <body>Pastoral Prayer
 Pastor Arthur Hsu</body></slide></slides></slide_group>
   <slide_group name="Sermon" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Sermon </title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <style index="default_style">
-  <title enabled="true" valign="bottom" align="right" include_verse="true" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="14" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" />
-  <subtitle enabled="true" valign="bottom" align="right" descriptive="true" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="12" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000" />
-  <song_subtitle />
+  <title enabled="true" valign="bottom" align="right" include_verse="true" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="14" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <subtitle enabled="true" valign="bottom" align="right" descriptive="true" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="12" bold="true" italic="true" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#000000"/>
+  <song_subtitle/>
   <body enabled="true" auto_scale="true" valign="middle" align="center" highlight_chorus="true" margin-left="0" margin-right="0" margin-top="0" margin-bottom="0" font="Helvetica" size="34" bold="true" italic="false" underline="false" color="#FFFFFF" border="true" border_color="#000000" shadow="true" shadow_color="#000000" fill="false" fill_color="#FF0000">
-  <tabs />
+  <tabs/>
 </body>
   <background strip_footer="0" color="#408080" position="1">/9j/4AAQSkZJRgABAQEBdwF3AAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
 HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
@@ -1445,57 +1520,93 @@ V4rVz11pjRnKNtx6VT+03FqcEkj60/Zp7C9q1udl5u+kNc5bayRgEHIrXgvUcDjr1qeUtVLk5FMK
 08MHbB496a33uehpFEDLUbLUx5PSmlTj0pkkWaPvU5h0B/Cm5GPbNAhpphp5601h3NUIjNMpxYjg
 jOOlN77c+4NMQhamE/LUgxjIHFMI/OmK5yd6P9MroNIysIxWJqSbLnd69q0dJmLLsbkVtL4Tni7T
 N771RFdtCuAOCevFSMM855Fc1jtVQ//Z</background></style>
-  <presentation />
+  <presentation/>
   <slides>
   <slide>
-  <body>Sermon    &#8220;Christ the Superior High Priest&#8221; 
-Hebrews 4:14&#8211;5:14 
-</body>
-</slide></slides></slide_group>
-  <slide_group type="scripture" name="Hebrews 4:14&#8211;5:14|ESV" print="true"><title>Hebrews 4:14&#8211;5:14|ESV</title><slides><slide><body>Hebrews 4:14&#8211;5:14</body></slide><slide><body>14 Since then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession.</body></slide><slide><body>15 For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin.</body></slide><slide><body>16 Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need.:</body></slide><slide><body>1 For every high priest chosen from among men is appointed to act on behalf of men in relation to God, to offer gifts and sacrifices for sins.</body></slide><slide><body>2 He can deal gently with the ignorant and wayward, since he himself is beset with weakness.</body></slide><slide><body>3 Because of this he is obligated to offer sacrifice for his own sins just as he does for those of the people.</body></slide><slide><body>4 And no one takes this honor for himself, but only when called by God, just as Aaron was.:</body></slide><slide><body>5 So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him,: &#8220;You are my Son, today I have begotten you&#8221;;</body></slide><slide><body>6 as he says also in another place,: &#8220;You are a priest forever, after the order of Melchizedek.&#8221;</body></slide><slide><body>7 In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to him who was able to save him from death, and he was heard because of his reverence.</body></slide><slide><body>8 Although he was a son, he learned obedience through what he suffered.</body></slide><slide><body>9 And being made perfect, he became the source of eternal salvation to all who obey him,</body></slide><slide><body>10 being designated by God a high priest after the order of Melchizedek.:</body></slide><slide><body>11 About this we have much to say, and it is hard to explain, since you have become dull of hearing.</body></slide><slide><body>12 For though by this time you ought to be teachers, you need someone to teach you again the basic principles of the oracles of God. You need milk, not solid food,</body></slide><slide><body>13 for everyone who lives on milk is unskilled in the word of righteousness, since he is a child.</body></slide><slide><body>14 But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil.</body></slide></slides><subtitle>ESV</subtitle></slide_group><slide_group name="Song of Response" type="custom" print="true" seconds="0" loop="false" transition="0">
+  <body>The Incarnation - The True God Who Took on Flesh
+ John 1:8–18 </body></slide></slides></slide_group>
+  <slide_group type="scripture" name=" John 1:8–18 |ESV" print="true">
+  <title> John 1:8–18 |ESV</title>
+  <slides>
+  <slide>
+  <body>John 1:8–18</body></slide>
+  <slide>
+  <body>8 He was not the light, but came to bear witness about the light.:</body></slide>
+  <slide>
+  <body>9 The true light, which gives light to everyone, was coming into the world.</body></slide>
+  <slide>
+  <body>10 He was in the world, and the world was made through him, yet the world did not know him.</body></slide>
+  <slide>
+  <body>11 He came to his own, and his own people did not receive him.</body></slide>
+  <slide>
+  <body>12 But to all who did receive him, who believed in his name, he gave the right to become children of God,</body></slide>
+  <slide>
+  <body>13 who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.:</body></slide>
+  <slide>
+  <body>14 And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.</body></slide>
+  <slide>
+  <body>15 (John bore witness about him, and cried out, “This was he of whom I said, ‘He who comes after me ranks before me, because he was before me.’”)</body></slide>
+  <slide>
+  <body>16 For from his fullness we have all received, grace upon grace.</body></slide>
+  <slide>
+  <body>17 For the law was given through Moses; grace and truth came through Jesus Christ.</body></slide>
+  <slide>
+  <body>18 No one has ever seen God; the only God, who is at the Father’s side, he has made him known.</body></slide></slides>
+  <subtitle>ESV</subtitle></slide_group>
+  <slide_group name="Song of Response" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Song of Response</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <body>Song of Response
-By Faith</body></slide></slides></slide_group>
-  <slide_group name="By Faith" type="song" presentation="V1 V2 C V3 V4 C V5 C C T" path="" /><slide_group name="Prayer for Tithes &amp; Offering" type="custom" print="true" seconds="0" loop="false" transition="0">
+All I Have Is Christ</body></slide></slides></slide_group>
+  <slide_group name="All I Have Is Christ" type="song" presentation="V1 V2 C V3 C C" path=""/>
+  <slide_group name="Prayer for Tithes &amp; Offering" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Prayer for Tithes &amp; Offering</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
-  <body />
+  <body/>
 </slide></slides></slide_group>
   <slide_group name="Announcements" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Announcements</title>
-  <subtitle />
-  <notes />
-  <slides><slide><body>Welcome to Grace Christian Church! We are glad you can join us.
-</body></slide><slide><body>We are pleased to have Steve Hollidge as our guest preacher today.
-</body></slide><slide><body>The GCC Youth Hiking Trip has been rescheduled to 6/12 from 1&#8211;4pm; location: Scotts Run Loop Hike on the Potomac Heritage Trail; all are invited. For more information, please go to https://forms.gle/Z6gkFS4yHSSnrGpa6
-</body></slide><slide><body>CM Sisters&#8217; Fellowship is planning a Father&#8217;s Day Picnic (6/20) at 12:30pm after worship service outside of our church building in the back lawn grassy area. There will be boxed lunch, dessert, ice-cream, family portraits, and games. All are invited. Please RSVP by 6/6 using this link: https://docs.google.com/forms/d/e/1FAIpQLSfpTMiLfKlBkCvPBjuct2eJjXKYSr-fPM_5xMJGBpk7DVWabA/viewform
-</body></slide><slide><body>GCC plans to begin our Phase II reopening on 7/4; more information will be forthcoming. There will be a CM Town Hall meeting on Sunday 6/20 at 11:15am, and EM Town Hall meeting will be on Sunday 6/27 at 2pm.
-</body></slide><slide><body>We will celebrate the Lord&#8217;s Supper next Sunday, 6/13.
-</body></slide><slide><body>Weekly online EM Fellowship/Sermon Discussion is on Sunday, 2&#8211;3pm over Zoom. All are invited.
-</body></slide><slide><body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30&#8211;9:30pm over Zoom online. All are invited.</body></slide></slides>
-</slide_group>
-  <slide_group name="Doxology" type="song" presentation="V1" path="" transition="0" />
+  <subtitle></subtitle>
+  <notes></notes>
+  <slides>
+  <slide>
+  <body>Welcome to Grace Christian Church! We are glad you can join us.</body></slide>
+  <slide>
+  <body>We will celebrate the Lord’s Supper on Sunday, 12/12.</body></slide>
+  <slide>
+  <body>We plan to have on-site Baptism and Profession of Faith worship service on 12/19.</body></slide>
+  <slide>
+  <body>There will be a combined CM &amp; EM Christmas Eve Worship Service in the evening of Friday 12/24 at 7:30pm. Please plan to attend.</body></slide>
+  <slide>
+  <body>If you’d like to be included in our church’s 2022 directory, or if your contact information (address, phone number, or email) has changed and/or if you want to update your photo, 
+please submit at our church website (http://graceem.gccvapca.org).</body></slide>
+  <slide>
+  <body>Weekly online EM Fellowship/Sermon Discussion is on Sunday, 4–5pm over Zoom. All are invited.</body></slide>
+  <slide>
+  <body>Weekly Bible Study/Prayer Meeting is on Wednesday evenings, 7:30–9:30pm through Zoom. All are invited.</body></slide>
+  <slide>
+  <body>We encourage brothers and sisters who worship online to continue with weekly tithing/offering by mailing/dropping off checks to GCC, using online payment through your bank, or transferring money via PayPal to graceccpca@gmail.com (transaction fees apply).</body></slide></slides></slide_group>
+  <slide_group name="Doxology" type="song" presentation="V1" path="" transition="0"/>
   <slide_group name="Benediction &amp; Amen" type="custom" print="true" seconds="0" loop="false" transition="0">
   <title>Benediction &amp; Amen</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <body>Benediction &amp; Amen</body></slide></slides></slide_group>
   <slide_group name="GCC LOGO" type="image" print="true" descriptions_in_subtitle="false" seconds="0" loop="false" transition="0" resize="screen" keep_aspect="false" link="true">
   <title>GCC LOGO</title>
-  <subtitle />
-  <notes />
+  <subtitle/>
+  <notes/>
   <slides>
   <slide>
   <filename>GCCLogo.jpg</filename>
   <description>C:\Dropbox\OpenSongV2\OpenSong Data\Backgrounds\GCCLogo.jpg</description>
-  <image />
+  <image/>
 </slide></slides></slide_group></slide_groups></set>
