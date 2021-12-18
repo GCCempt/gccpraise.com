@@ -25,7 +25,7 @@ $preview = "All In All";
 $s = false;
 $searchresults = "";
 
-$dir = "songs/";
+$dir = "Songs/";
 $files = array();
 $dir1 = $dir;
 $thedir = opendir($dir1);
