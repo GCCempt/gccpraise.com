@@ -1,7 +1,7 @@
-
 # Use the official PHP image.
 # https://hub.docker.com/_/php
 FROM php:8.0-apache
+RUN apt-get update -y && apt-get upgrade -y && apt-get dist-upgrade -y ; apt-get install libzip-dev zip -y && docker-php-ext-install zip
 
 # Configure PHP for Cloud Run.
 # Precompile PHP code with opcache.
@@ -21,11 +21,10 @@ RUN set -ex; \
     echo "opcache.memory_consumption = 32"; \
   } > "$PHP_INI_DIR/conf.d/cloud-run.ini"
 
-ENV DROPBOX_TOKEN=''
-
 # Copy in custom code from the host machine.
 WORKDIR /var/www/html
 COPY . /var/www/html
+RUN chmod -R 777 /var/www/html 
 
 # Use the PORT environment variable in Apache configuration files.
 # https://cloud.google.com/run/docs/reference/container-contract#port
