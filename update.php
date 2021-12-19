@@ -1,16 +1,28 @@
 <?php
 
 
+function dirCleanup($directory)
+{
+    $filesToDelete = scandir($directory);
+    foreach ($filesToDelete as $file) {
+        if (!is_dir($directory . $file)) {
+            unlink($directory . $file);
+        }
+    }
+}
+
+
 function dropboxApiUpdate($apiEndpoint, $downloadDir, $copyToDir, $dropboxDownloadSourceDir)
 {
-
     if (!is_dir($downloadDir . $copyToDir)) {
         mkdir($downloadDir . $copyToDir);
     }
-    $filesToDelete = scandir($copyToDir);
-    foreach ($filesToDelete as $file) {
-        if (!is_dir($copyToDir . $file)) unlink($copyToDir . $file);
-    }
+
+    # Clean up the Dropbox_Copy Dir (Sets/ or Songs/)
+    dirCleanup($downloadDir . $copyToDir);
+
+    # Clean up the Set Index Folder (Sets/ or Songs/)
+    dirCleanup($copyToDir);
 
     $env = getenv('DROPBOX_TOKEN');
     $curl = curl_init($apiEndpoint);
@@ -29,9 +41,6 @@ function dropboxApiUpdate($apiEndpoint, $downloadDir, $copyToDir, $dropboxDownlo
     if ($res === TRUE) {
         $zip->extractTo($downloadDir);
         $zip->close();
-        echo "Success!";
-    } else {
-        echo 'Error!';
     }
     $files = scandir($downloadDir . $copyToDir);
     foreach ($files as $filename) {
