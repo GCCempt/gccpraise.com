@@ -43,7 +43,6 @@ foreach ($files as $f) {
 
         }
 //		$listing .=  "<a name='" . $letter . "' class='noborder'></a><p><strong>" . $letter . "</strong></p><ul>";
-//		$alpha .= "<li><a href='#" . $letter . "' >" . $letter . "</a></li><br>";
     }
     $listing .= '<li><a href="preview_set.php?s=' . $f . '">' . $f . '</a><br>';
     $last = $letter;
